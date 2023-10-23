@@ -1,0 +1,3909 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.triptalkhome-cDW {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.triptalkhome-cDW .navbar-d8c {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ {
+  box-sizing: border-box;
+  padding: 3rem 16.5rem 3rem 16.5rem;
+  width: 100%;
+  height: 11.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #fafafa;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .social-cue {
+  margin: 1rem 32.5rem 1rem 0rem;
+  height: calc(100% - 2rem);
+  display: flex;
+  column-gap: 1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .social-cue .facebook-vvL {
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .social-cue .instagram-Fxc {
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .social-cue .twitter-QKi {
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .social-cue .linkekin-keU {
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .logo-Gcp {
+  margin-right: 32.3rem;
+  width: 14.4rem;
+  height: 5.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .search-1aQ {
+  margin: 0.6rem 0rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 1.2rem;
+  height: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.15rem #0a0a0a;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .search-1aQ .search-hy2 {
+  margin-right: 5.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .top-nav-xKJ .search-1aQ .auto-group-pvha-PL4 {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ {
+  box-sizing: border-box;
+  padding: 1.6rem 16.5rem;
+  width: 100%;
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #0a0a0a;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-PjN {
+  margin-right: 26.4rem;
+  width: 3.4rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv {
+  margin: 0.8rem 18.2rem 0.8rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv .home-FFn {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv .menu-9rx {
+  box-sizing: border-box;
+  padding-right: 0.175rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv .menu-9rx .categories-ubE {
+  margin-right: 0.575rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv .menu-9rx .right-arrow-MrY {
+  width: 1.05rem;
+  height: 0.525rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv .destination-JWt {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv .blog-2St {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv .about-ZSp {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .menu-Ksv .contact-us-JQQ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .auto-group-bmzg-dxU {
+  width: 11.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .navbar-d8c .bottom-nav-UsJ .auto-group-bmzg-dxU .cta-Byz {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #047ffa;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg {
+  box-sizing: border-box;
+  padding: 4rem 16.4rem 8rem 16.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn {
+  margin: 0rem 0.1rem 7rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 55.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W {
+  margin-right: 0.8rem;
+  width: 74.2rem;
+  height: 100%;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+  background: linear-gradient(180deg, rgba(10, 10, 10, 0) 0%, rgba(10, 10, 10, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .pagination-RWx {
+  width: 67.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 25.2rem;
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .pagination-RWx .left-arrow-YrU {
+  margin-right: 58.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .pagination-RWx .right-arrow-fgC {
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt {
+  width: 62.8rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 3.2rem;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .taxonomy-XyJ {
+  margin-bottom: 34rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff290c;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .meta-NU8 {
+  margin-bottom: 0.8rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .meta-NU8 .author-WKS {
+  margin-right: 1.6rem;
+  box-sizing: border-box;
+  padding-left: 0.4167rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .meta-NU8 .author-WKS .user-BAg {
+  margin-right: 1.2167rem;
+  width: 1.1667rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .meta-NU8 .author-WKS .sarfraz-jasim-6He {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .meta-NU8 .border-cFz {
+  margin-right: 1.5rem;
+  width: 0.1rem;
+  height: 2rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .meta-NU8 .date-jrQ {
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .meta-NU8 .date-jrQ .calender-h2Y {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .meta-NU8 .date-jrQ .july-17-2023-orG {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .image-V7W .frame-4-QNt .frame-3-cjr .everything-you-need-to-know-to-see-the-northern-light-in-norway-8tY {
+  max-width: 62.8rem;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2631578947;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG {
+  width: 36rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-6it {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 27.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-4Cp.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-6it .frame-7-S24 {
+  width: 26.1rem;
+  height: 100%;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-6it .frame-7-S24 .taxonomy-nLp {
+  margin: 0rem 0rem 11.2rem 0.4rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #047ffa;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-6it .frame-7-S24 .frame-6-Thr {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-6it .frame-7-S24 .frame-6-Thr .date-d6Y {
+  margin: 0rem 15rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 15rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-6it .frame-7-S24 .frame-6-Thr .date-d6Y .calender-YzC {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-6it .frame-7-S24 .frame-6-Thr .date-d6Y .july-17-2023-Usr {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-6it .frame-7-S24 .frame-6-Thr .everything-you-need-to-know-to-see-the-northern-light-cUG {
+  max-width: 26.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-2Xz {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 27.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-UFJ.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-2Xz .frame-10-mVa {
+  width: 26.1rem;
+  height: 100%;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-2Xz .frame-10-mVa .taxonomy-vNU {
+  margin-bottom: 11.2rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ce0bff;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-2Xz .frame-10-mVa .frame-9-pCx {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-2Xz .frame-10-mVa .frame-9-pCx .date-aT2 {
+  margin: 0rem 15rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 15rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-2Xz .frame-10-mVa .frame-9-pCx .date-aT2 .calender-hnY {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-2Xz .frame-10-mVa .frame-9-pCx .date-aT2 .july-17-2023-dRJ {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-12-NHn .auto-group-pkyp-YxG .image-2Xz .frame-10-mVa .frame-9-pCx .everything-you-need-to-know-to-see-the-northern-light-xCg {
+  max-width: 26.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 {
+  margin: 0rem 0.1rem 7rem 0rem;
+  width: 111rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .where-do-you-want-to-go-LU8 {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.4375;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY {
+  width: 100%;
+  height: 23rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-z2t {
+  box-sizing: border-box;
+  padding: 15.2rem 1.6rem 1.6rem 1.6rem;
+  width: 25.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-c1E.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-z2t .new-york-hxt {
+  width: 16.5rem;
+  height: 100%;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-z2t .new-york-hxt .new-york-GWC {
+  margin-bottom: 0.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-z2t .new-york-hxt .what-an-amazing-view-boN {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-HAQ {
+  box-sizing: border-box;
+  padding: 15.2rem 1.6rem 1.6rem 1.6rem;
+  width: 25.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-vME.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-HAQ .new-york-RGc {
+  width: 19.9rem;
+  height: 100%;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-HAQ .new-york-RGc .africa-yZ2 {
+  margin-bottom: 0.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-HAQ .new-york-RGc .land-of-mystery-and-music-Wor {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-oHA {
+  box-sizing: border-box;
+  padding: 15.2rem 1.6rem 1.6rem 1.6rem;
+  width: 25.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-hMi.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-oHA .new-york-8qE {
+  width: 18.3rem;
+  height: 100%;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-oHA .new-york-8qE .europe-tZW {
+  margin-bottom: 0.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-oHA .new-york-8qE .visit-foe-amazing-history-RpL {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-VZJ {
+  box-sizing: border-box;
+  padding: 15.2rem 1.6rem 1.6rem 1.6rem;
+  width: 25.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-bse.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-VZJ .new-york-q7N {
+  width: 15rem;
+  height: 100%;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-VZJ .new-york-q7N .aisa-zW4 {
+  margin-bottom: 0.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-18-zv4 .frame-17-3NY .image-VZJ .new-york-q7N .visit-for-honeymoon-8sA {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .top-destination-D7v {
+  margin: 0rem 88.3rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.4375;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 {
+  margin: 0rem 0.1rem 6rem 0rem;
+  height: 34rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC {
+  width: 25.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .image-Byr {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 19.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-jwN.png');
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .image-Byr .taxonomy-vgY {
+  margin: 0rem 14.1rem 12.4rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #047ffa;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU {
+  width: 23.5rem;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU .title-meta-Jh6 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU .title-meta-Jh6 .date-4AU {
+  margin: 0rem 12.4rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 12.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU .title-meta-Jh6 .date-4AU .calender-z48 {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU .title-meta-Jh6 .date-4AU .july-17-2023-Wwa {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU .title-meta-Jh6 .everything-you-need-to-know-to-see-the-northern-light-E6t {
+  max-width: 23.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU .read-more-wX6 {
+  margin-right: 13.1rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 13.1rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU .read-more-wX6 .read-more-5NQ {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-1-qQC .title-cta-kvU .read-more-wX6 .right-arrow-v2-QQg {
+  margin-bottom: 0rem;
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC {
+  width: 25.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .image-5Wp {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 19.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-M5J.png');
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .image-5Wp .taxonomy-R4t {
+  margin: 0rem 14.1rem 12.4rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ce0bff;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg {
+  width: 23.5rem;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg .title-meta-q8c {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg .title-meta-q8c .date-NuE {
+  margin: 0rem 12.4rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 12.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg .title-meta-q8c .date-NuE .calender-hwW {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg .title-meta-q8c .date-NuE .july-17-2023-Rcc {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg .title-meta-q8c .everything-you-need-to-know-to-see-the-northern-light-LzU {
+  max-width: 23.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg .read-more-TpC {
+  margin-right: 13.1rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 13.1rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg .read-more-TpC .read-more-152 {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-2-XkC .title-cta-sSg .read-more-TpC .right-arrow-v2-Vkt {
+  margin-bottom: 0rem;
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt {
+  width: 25.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .image-mTW {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 19.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-Bn8.png');
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .image-mTW .taxonomy-JiL {
+  margin: 0rem 14.1rem 12.4rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff290c;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr {
+  width: 23.5rem;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr .title-meta-ui8 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr .title-meta-ui8 .date-s9A {
+  margin: 0rem 12.4rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 12.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr .title-meta-ui8 .date-s9A .calender-PtC {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr .title-meta-ui8 .date-s9A .july-17-2023-Wxp {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr .title-meta-ui8 .everything-you-need-to-know-to-see-the-northern-light-qkC {
+  max-width: 23.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr .read-more-xZv {
+  margin-right: 13.1rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 13.1rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr .read-more-xZv .read-more-tyN {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-3-Dgt .title-cta-9yr .read-more-xZv .right-arrow-v2-RCc {
+  margin-bottom: 0rem;
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa {
+  width: 25.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .image-hA8 {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 19.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-mmS.png');
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .image-hA8 .taxonomy-S7i {
+  margin: 0rem 14.1rem 12.4rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ce0bff;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY {
+  width: 23.5rem;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY .title-meta-496 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY .title-meta-496 .date-p8G {
+  margin: 0rem 12.4rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 12.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY .title-meta-496 .date-p8G .calender-kGp {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY .title-meta-496 .date-p8G .july-17-2023-Uic {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY .title-meta-496 .everything-you-need-to-know-to-see-the-northern-light-QcG {
+  max-width: 23.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY .read-more-j8k {
+  margin-right: 13.1rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 13.1rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY .read-more-j8k .read-more-GPa {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .frame-19-Jv4 .destination-4-LKa .title-cta-hJY .read-more-j8k .right-arrow-v2-C2L {
+  margin-bottom: 0rem;
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .ad-1-iFa {
+  width: 100%;
+  height: 20.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .ad-1-iFa .ad-image-4qE {
+  width: 111.1rem;
+  height: 20.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .ad-1-iFa .ad-title-cta-QPJ {
+  width: 99.8rem;
+  height: 11.2rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .ad-1-iFa .ad-title-cta-QPJ .gutenberg-post-blocks-8q6 {
+  margin-right: 63rem;
+  max-width: 20rem;
+  font-size: 4.4rem;
+  font-weight: 500;
+  line-height: 1.2727272727;
+  letter-spacing: 0.011rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .ad-1-iFa .ad-title-cta-QPJ .gutenberg-post-blocks-8q6 .gutenberg-post-blocks-8q6-sub-0 {
+  font-size: 4.4rem;
+  font-weight: 400;
+  line-height: 1.2727272727;
+  letter-spacing: 0.011rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .ad-1-iFa .ad-title-cta-QPJ .gutenberg-post-blocks-8q6 .gutenberg-post-blocks-8q6-sub-1 {
+}
+.triptalkhome-cDW .auto-group-vwrg-5Jg .ad-1-iFa .ad-title-cta-QPJ .read-more-VBn {
+  margin: 3rem 0;
+  width: 16.8rem;
+  height: calc(100% - 6rem);
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #047ffa;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG {
+  margin-bottom: 6.9rem;
+  box-sizing: border-box;
+  padding: 6.9rem 16.9rem 8.4rem 16.5rem;
+  width: 100%;
+  height: 86.4rem;
+  background-color: #fafafa;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .discover-most-amazing-places-2qv {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.4375;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn {
+  width: 100%;
+  height: 63.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc {
+  margin-right: 3rem;
+  width: 54rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .image-Sek {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 40rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-jse.png');
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .image-Sek .taxonomy-PZz {
+  margin: 0rem 42.6rem 32.8rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ce0bff;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL {
+  width: 46.7rem;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 {
+  margin-bottom: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .meta-Hon {
+  margin-bottom: 0.8rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .meta-Hon .author-SAt {
+  margin-right: 1.6rem;
+  box-sizing: border-box;
+  padding-left: 0.4167rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .meta-Hon .author-SAt .user-ygc {
+  margin-right: 1.2167rem;
+  width: 1.1667rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .meta-Hon .author-SAt .sarfraz-jasim-KEg {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .meta-Hon .border-qTv {
+  margin-right: 1.5rem;
+  width: 0.1rem;
+  height: 2rem;
+  background-color: #838383;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .meta-Hon .date-nPA {
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .meta-Hon .date-nPA .calender-8hv {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .meta-Hon .date-nPA .july-17-2023-FnY {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .title-meta-wV2 .everything-you-need-to-know-to-see-the-northern-lights-NcG {
+  max-width: 41.7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .title-text-Bkk .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-a-master-suite-with-private-terrace-and-anny-HDS {
+  max-width: 46.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .read-more-Mj6 {
+  margin-right: 36.3rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 36.3rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .read-more-Mj6 .read-more-h2G {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .amazing-places-VUc .title-cta-dUL .read-more-Mj6 .right-arrow-v2-1oe {
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex {
+  width: 53.6rem;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 {
+  width: 100%;
+  height: 18.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .image-qGt {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 25.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-run.png');
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .image-qGt .taxonomy-aVN {
+  margin: 0rem 14.1rem 11.6rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff290c;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe {
+  width: 26.1rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .title-text-Bk4 {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .title-text-Bk4 .title-meta-wUL {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .title-text-Bk4 .title-meta-wUL .date-teU {
+  margin: 0rem 15rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 15rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .title-text-Bk4 .title-meta-wUL .date-teU .calender-1yz {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .title-text-Bk4 .title-meta-wUL .date-teU .july-17-2023-wck {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .title-text-Bk4 .title-meta-wUL .everything-you-need-to-know-to-see-the-northern-lights-5DA {
+  max-width: 26.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .title-text-Bk4 .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-bBW {
+  max-width: 25.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .read-more-hkL {
+  margin-right: 15.7rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 15.7rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .read-more-hkL .read-more-qbe {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-20-Ux8 .title-cta-dTe .read-more-hkL .right-arrow-v2-xwA {
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 {
+  width: 100%;
+  height: 18.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .image-SbS {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 25.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-HZS.png');
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .image-SbS .taxonomy-n9W {
+  margin: 0rem 14.1rem 11.6rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ce0bff;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG {
+  width: 26.1rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .title-text-nHv {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .title-text-nHv .title-meta-8sa {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .title-text-nHv .title-meta-8sa .date-h9z {
+  margin: 0rem 15rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 15rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .title-text-nHv .title-meta-8sa .date-h9z .calender-q1J {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .title-text-nHv .title-meta-8sa .date-h9z .july-17-2023-xLp {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .title-text-nHv .title-meta-8sa .everything-you-need-to-know-to-see-the-northern-lights-sya {
+  max-width: 26.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .title-text-nHv .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-Pwv {
+  max-width: 25.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .read-more-77E {
+  margin-right: 15.7rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 15.7rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .read-more-77E .read-more-eN4 {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-21-h84 .title-cta-RiG .read-more-77E .right-arrow-v2-NJ4 {
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 {
+  width: 100%;
+  height: 18.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .image-rj2 {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 25.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg.png');
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .image-rj2 .taxonomy-QVe {
+  margin: 0rem 14.1rem 11.6rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0c99ff;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc {
+  width: 26.1rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .title-text-PsN {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .title-text-PsN .title-meta-wtt {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .title-text-PsN .title-meta-wtt .date-tp8 {
+  margin: 0rem 15rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 15rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .title-text-PsN .title-meta-wtt .date-tp8 .calender-29e {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .title-text-PsN .title-meta-wtt .date-tp8 .july-17-2023-Lw2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .title-text-PsN .title-meta-wtt .everything-you-need-to-know-to-see-the-northern-lights-H5a {
+  max-width: 26.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .title-text-PsN .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-oJp {
+  max-width: 25.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .read-more-KY4 {
+  margin-right: 15.7rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 15.7rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .read-more-KY4 .read-more-3U4 {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .auto-group-besk-xLG .frame-24-sTE .frame-23-xDn .auto-group-pqek-9ex .frame-22-hr8 .title-cta-3Yc .read-more-KY4 .right-arrow-v2-mex {
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv {
+  margin: 0rem 16.5rem 8rem 16.5rem;
+  width: calc(100% - 33rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi {
+  margin-bottom: 6rem;
+  width: 100%;
+  height: 190.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv {
+  margin-right: 5rem;
+  width: 73rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .latest-from-my-journal-hh2 {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.4375;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .image-8GY {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 54.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-gVE.png');
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .image-8GY .taxonomy-TZi {
+  margin: 0rem 61.6rem 47.6rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ce0bff;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ {
+  width: 69.9rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY {
+  margin-bottom: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .meta-83a {
+  margin-bottom: 0.8rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .meta-83a .author-GvU {
+  margin-right: 1.6rem;
+  box-sizing: border-box;
+  padding-left: 0.4167rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .meta-83a .author-GvU .user-cjS {
+  margin-right: 1.2167rem;
+  width: 1.1667rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .meta-83a .author-GvU .sarfraz-jasim-9zG {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .meta-83a .border-V2Y {
+  margin-right: 1.5rem;
+  width: 0.1rem;
+  height: 2rem;
+  background-color: #838383;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .meta-83a .date-1ma {
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .meta-83a .date-1ma .calender-NME {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .meta-83a .date-1ma .july-17-2023-h8c {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .title-meta-AcY .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-cWU {
+  max-width: 67.2rem;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2631578947;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .title-text-pYg .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-a-master-suite-with-private-terrace-and-anny-hills-property-with-mountain-iJc {
+  max-width: 69.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .read-more-abi {
+  margin-right: 59.5rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 59.5rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .read-more-abi .read-more-7be {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-25-NYG .title-cta-4pQ .read-more-abi .right-arrow-v2-EwA {
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .border-mw6 {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #cccccc;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  height: 46.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk {
+  margin-right: 3rem;
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .image-BE8 {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 26.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-UHn.png');
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .image-BE8 .taxonomy-hyA {
+  margin: 0rem 23.6rem 19rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #575df6;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 {
+  width: 32.2rem;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .title-text-v5E {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .title-text-v5E .title-meta-Gun {
+  margin-bottom: 1.2rem;
+  width: 32rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .title-text-v5E .title-meta-Gun .date-2PA {
+  margin: 0rem 20.9rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 20.9rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .title-text-v5E .title-meta-Gun .date-2PA .calender-x1v {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .title-text-v5E .title-meta-Gun .date-2PA .july-17-2023-5MS {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .title-text-v5E .title-meta-Gun .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-oHS {
+  max-width: 32rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  letter-spacing: 0.0027rem;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .title-text-v5E .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-Vvx {
+  max-width: 32.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .read-more-CqN {
+  margin-right: 21.8rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 21.8rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .read-more-CqN .read-more-k6C {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-Rkk .title-cta-xu6 .read-more-CqN .right-arrow-v2-GqE {
+  margin-top: 0rem;
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .image-xCG {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 26.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-3j6.png');
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .image-xCG .taxonomy-tbi {
+  margin: 0rem 23.6rem 19rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff290c;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW {
+  width: 32.2rem;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .title-text-g1n {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .title-text-g1n .title-meta-dBv {
+  margin-bottom: 1.2rem;
+  width: 32rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .title-text-g1n .title-meta-dBv .date-NvC {
+  margin: 0rem 20.9rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 20.9rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .title-text-g1n .title-meta-dBv .date-NvC .calender-WFi {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .title-text-g1n .title-meta-dBv .date-NvC .july-17-2023-2Ux {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .title-text-g1n .title-meta-dBv .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-wrp {
+  max-width: 32rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  letter-spacing: 0.0027rem;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .title-text-g1n .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-T4U {
+  max-width: 32.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .read-more-Mfe {
+  margin-right: 21.8rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 21.8rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .read-more-Mfe .read-more-tvU {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-5q6x-V6Q .journal-QAk .title-cta-vHW .read-more-Mfe .right-arrow-v2-R9i {
+  margin-top: 0rem;
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE {
+  width: 100%;
+  height: 46.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz {
+  margin-right: 3rem;
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .image-3Rz {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 26.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-Lh6.png');
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .image-3Rz .taxonomy-awi {
+  margin: 0rem 23.6rem 19rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ce0bff;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x {
+  width: 32.2rem;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .title-text-PPN {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .title-text-PPN .title-meta-wfn {
+  margin-bottom: 1.2rem;
+  width: 32rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .title-text-PPN .title-meta-wfn .date-6Hn {
+  margin: 0rem 20.9rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 20.9rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .title-text-PPN .title-meta-wfn .date-6Hn .calender-2SL {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .title-text-PPN .title-meta-wfn .date-6Hn .july-17-2023-xat {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .title-text-PPN .title-meta-wfn .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-Up8 {
+  max-width: 32rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  letter-spacing: 0.0027rem;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .title-text-PPN .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-aMN {
+  max-width: 32.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .read-more-sbN {
+  margin-right: 21.8rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 21.8rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .read-more-sbN .read-more-pFi {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-toz .title-cta-q6x .read-more-sbN .right-arrow-v2-Lzk {
+  margin-top: 0rem;
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .image-Snt {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  height: 26.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-Lbz.png');
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .image-Snt .taxonomy-nrk {
+  margin: 0rem 23.6rem 19rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0c99ff;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 {
+  width: 32.2rem;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .title-text-nkG {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .title-text-nkG .title-meta-kBJ {
+  margin-bottom: 1.2rem;
+  width: 32rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .title-text-nkG .title-meta-kBJ .date-6kx {
+  margin: 0rem 20.9rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 20.9rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .title-text-nkG .title-meta-kBJ .date-6kx .calender-Dqa {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .title-text-nkG .title-meta-kBJ .date-6kx .july-17-2023-9DS {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .title-text-nkG .title-meta-kBJ .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-UWc {
+  max-width: 32rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  letter-spacing: 0.0027rem;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .title-text-nkG .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-apY {
+  max-width: 32.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .read-more-6Xz {
+  margin-right: 21.8rem;
+  box-sizing: border-box;
+  padding-right: 0.225rem;
+  width: calc(100% - 21.8rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .read-more-6Xz .read-more-EeC {
+  margin-right: 1.025rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .auto-group-unak-ZKv .frame-38-cZ6 .frame-37-vZ6 .auto-group-jmwy-YVE .journal-tFa .title-cta-2m6 .read-more-6Xz .right-arrow-v2-ZRa {
+  margin-top: 0rem;
+  width: 1.35rem;
+  height: 1.1475rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep {
+  margin-top: 1.1rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 1.6rem;
+  width: 33rem;
+  row-gap: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f4f4;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE {
+  margin-left: 0rem;
+  width: calc(100% - 0rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .popular-post-Lqe {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .frame-26-bFn {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 22.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-HYU.png');
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .frame-26-bFn .taxonomy-KxU {
+  margin: 0rem 20rem 16.8rem 0rem;
+  width: 6.6rem;
+  height: 2.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.0048rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #575df6;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY .title-meta-wix {
+  margin-bottom: 0.8rem;
+  width: 22.3rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY .title-meta-wix .date-teC {
+  margin: 0rem 11.2rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 11.2rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY .title-meta-wix .date-teC .calender-DgU {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY .title-meta-wix .date-teC .july-17-2023-9KE {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY .title-meta-wix .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-UcQ {
+  max-width: 22.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-BWp {
+  max-width: 28.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.007rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-BWp .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-BWp-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.007rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .frame-27-ERE .title-text-PSY .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-BWp .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-BWp-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.007rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .border-cEk {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #666666;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ {
+  box-sizing: border-box;
+  padding-top: 2.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-28-VpL {
+  margin: 0rem 2.5rem 2.4rem 0rem;
+  width: calc(100% - 2.5rem);
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-28-VpL .background-2JU {
+  margin-right: 1.4rem;
+  width: 9.4rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-28-VpL .title-meta-ZZJ {
+  margin: 0.1rem 0;
+  width: 16.5rem;
+  height: calc(100% - 0.2rem);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-28-VpL .title-meta-ZZJ .date-Vhr {
+  margin: 0rem 5.4rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-28-VpL .title-meta-ZZJ .date-Vhr .calender-2St {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-28-VpL .title-meta-ZZJ .date-Vhr .july-17-2023-ktg {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-28-VpL .title-meta-ZZJ .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-VLU {
+  max-width: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-29-QCY {
+  margin: 0rem 2.5rem 2.4rem 0rem;
+  width: calc(100% - 2.5rem);
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-29-QCY .background-jEp {
+  margin-right: 1.4rem;
+  width: 9.4rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-29-QCY .title-meta-sM2 {
+  margin: 0.1rem 0;
+  width: 16.5rem;
+  height: calc(100% - 0.2rem);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-29-QCY .title-meta-sM2 .date-p1N {
+  margin: 0rem 5.4rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-29-QCY .title-meta-sM2 .date-p1N .calender-8nk {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-29-QCY .title-meta-sM2 .date-p1N .july-17-2023-FcU {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-29-QCY .title-meta-sM2 .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-PTn {
+  max-width: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-30-6sz {
+  margin: 0rem 2.5rem 2.4rem 0rem;
+  width: calc(100% - 2.5rem);
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-30-6sz .background-qKn {
+  margin-right: 1.4rem;
+  width: 9.4rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-30-6sz .title-meta-NqW {
+  margin: 0.1rem 0;
+  width: 16.5rem;
+  height: calc(100% - 0.2rem);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-30-6sz .title-meta-NqW .date-vME {
+  margin: 0rem 5.4rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-30-6sz .title-meta-NqW .date-vME .calender-rEt {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-30-6sz .title-meta-NqW .date-vME .july-17-2023-Nyv {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-30-6sz .title-meta-NqW .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-uyr {
+  max-width: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-31-22t {
+  margin: 0rem 2.5rem 2.6rem 0rem;
+  width: calc(100% - 2.5rem);
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-31-22t .background-xBS {
+  margin-right: 1.4rem;
+  width: 9.4rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-31-22t .title-meta-h92 {
+  margin: 0.1rem 0;
+  width: 16.5rem;
+  height: calc(100% - 0.2rem);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-31-22t .title-meta-h92 .date-2h6 {
+  margin: 0rem 5.4rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-31-22t .title-meta-h92 .date-2h6 .calender-A2c {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-31-22t .title-meta-h92 .date-2h6 .july-17-2023-tUQ {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-31-22t .title-meta-h92 .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-2Ki {
+  max-width: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-32-99S {
+  margin-right: 2.5rem;
+  width: calc(100% - 2.5rem);
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-32-99S .background-g9N {
+  margin-right: 1.4rem;
+  width: 9.4rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-32-99S .title-meta-Df6 {
+  margin: 0.1rem 0;
+  width: 16.5rem;
+  height: calc(100% - 0.2rem);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-32-99S .title-meta-Df6 .date-mAp {
+  margin: 0rem 5.4rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.25rem;
+  width: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-32-99S .title-meta-Df6 .date-mAp .calender-JAk {
+  margin: 0rem 1.046rem 0.071rem 0rem;
+  width: 1.5042rem;
+  height: 1.4292rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-32-99S .title-meta-Df6 .date-mAp .july-17-2023-E4Q {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-34-nZE .frame-33-US4 .auto-group-q18u-xpQ .frame-32-99S .title-meta-Df6 .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-Z6g {
+  max-width: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .ad2-TC4 {
+  width: 100%;
+  height: 33.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .ad2-TC4 .ad-image-oWp {
+  width: 29.8rem;
+  height: 33.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .ad2-TC4 .ad-title-YjJ {
+  width: 21.9rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1rem;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .ad2-TC4 .ad-title-YjJ .ad-title-5UL {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .ad2-TC4 .ad-title-YjJ .ad-title-5UL .post-blocks-E6L {
+  margin-bottom: 0.4rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.4375;
+  letter-spacing: 0.008rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .ad2-TC4 .ad-title-YjJ .ad-title-5UL .best-gutenberg-blocks-ever-for-news-magagine-block-9UC {
+  max-width: 21.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .ad2-TC4 .ad-title-YjJ .read-more-GHv {
+  width: 16.8rem;
+  height: 5.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.0016rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ {
+  margin-left: 0rem;
+  width: calc(100% - 0rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .galary-624 {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-ette-NkG {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-ette-NkG .image-LBJ {
+  width: 9.9rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-ette-NkG .image-UYQ {
+  width: 10rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-ette-NkG .image-cuW {
+  width: 9.9rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-qbpe-yEG {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-qbpe-yEG .image-Kov {
+  width: 9.9rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-qbpe-yEG .image-5YC {
+  width: 10rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-qbpe-yEG .image-EAC {
+  width: 9.9rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-u6wc-nBi {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-u6wc-nBi .image-wKW {
+  width: 9.9rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-u6wc-nBi .image-hJg {
+  width: 10rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .frame-39-RDi .frame-36-5ep .frame-35-jhJ .frame-2-R4L .auto-group-u6wc-nBi .image-3tL {
+  width: 9.9rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .pagination-Sfa {
+  height: 3.6rem;
+  display: flex;
+  column-gap: 0.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .pagination-Sfa .previouse-ArU {
+  width: 9.1rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #838383;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .pagination-Sfa .item-1-Tqa {
+  width: 3.7rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #838383;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .pagination-Sfa .item-2-kpg {
+  width: 3.7rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #047ffa;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .pagination-Sfa .item-3-GHE {
+  width: 3.7rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #838383;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .pagination-Sfa .item-4-ySY {
+  width: 3.7rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #838383;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .pagination-Sfa .item-5-U8Q {
+  width: 3.7rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #838383;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .frame-40-gmv .pagination-Sfa .next-B2p {
+  width: 6.2rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #838383;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G {
+  box-sizing: border-box;
+  padding: 7.8rem 16.5rem 4.8rem 16.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0a0a0a;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  height: 31.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn {
+  box-sizing: border-box;
+  padding-right: 4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .logo-text-TeY {
+  margin: 0.2rem 8.9rem 0rem 0rem;
+  width: 31.4rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .logo-text-TeY .logo-az4 {
+  margin-bottom: 2.4rem;
+  width: 13.2923rem;
+  height: 4.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .logo-text-TeY .footer-text-Kgk {
+  margin-left: 0rem;
+  width: calc(100% - 0rem);
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .logo-text-TeY .footer-text-Kgk .with-grand-cities-plenty-of-opportunities-for-adventure-and-some-of-the-best-hiking-5A8 {
+  margin-bottom: 1.6rem;
+  max-width: 31.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .logo-text-TeY .footer-text-Kgk .lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-bGt {
+  max-width: 29.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN {
+  width: 16rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .quick-link-DJG {
+  margin-bottom: 2.8rem;
+  box-sizing: border-box;
+  padding-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 0.2rem #047ffa;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .quick-link-DJG .quick-link-9hi {
+  margin-bottom: 0.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .quick-link-DJG .border-gSk {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #666666;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A {
+  width: 7.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A .auto-group-v6mw-xfA {
+  box-sizing: border-box;
+  padding-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A .auto-group-v6mw-xfA .home-i8Y {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A .auto-group-v6mw-xfA .categories-S4Y {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A .destination-9zY {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A .auto-group-4dwv-5tC {
+  box-sizing: border-box;
+  padding-top: 1.6rem;
+  width: 100%;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A .auto-group-4dwv-5tC .blog-pKz {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A .auto-group-4dwv-5tC .about-9dA {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .auto-group-qkcl-7Kn .qucik-link-4RN .menu-p3A .auto-group-4dwv-5tC .contact-us-tak {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz {
+  margin-right: 4rem;
+  width: 27.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-MjE {
+  margin-bottom: 3.4rem;
+  box-sizing: border-box;
+  padding-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 0.2rem #047ffa;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-MjE .popular-post-hYC {
+  margin-bottom: 0.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-MjE .border-2aU {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #666666;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-8Nc {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-8Nc .background-Gji {
+  margin-right: 1.4rem;
+  width: 9.4rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-8Nc .title-meta-cHn {
+  margin: 0.1rem 0;
+  width: 16.8rem;
+  height: calc(100% - 0.2rem);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-8Nc .title-meta-cHn .author-9Hi {
+  margin: 0rem 5.3rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.4167rem;
+  width: calc(100% - 5.3rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-8Nc .title-meta-cHn .author-9Hi .user-4vU {
+  margin-right: 1.2167rem;
+  width: 1.1667rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-8Nc .title-meta-cHn .author-9Hi .sarfraz-jasim-bvQ {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-8Nc .title-meta-cHn .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-LNC {
+  max-width: 16.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .line-5-EyN {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #666666;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-C9W {
+  width: 100%;
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-C9W .background-kRv {
+  margin-right: 1.4rem;
+  width: 9.4rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-C9W .title-meta-hMA {
+  margin: 0.1rem 0;
+  width: 16.8rem;
+  height: calc(100% - 0.2rem);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-C9W .title-meta-hMA .author-qTN {
+  margin: 0rem 5.3rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.4167rem;
+  width: calc(100% - 5.3rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-C9W .title-meta-hMA .author-qTN .user-m68 {
+  margin-right: 1.2167rem;
+  width: 1.1667rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-C9W .title-meta-hMA .author-qTN .sarfraz-jasim-VXv {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .popular-post-Qoz .popular-post-mnx .single-post-C9W .title-meta-hMA .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-pq6 {
+  max-width: 16.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 {
+  width: 19.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-5m2 {
+  margin-bottom: 3.5rem;
+  box-sizing: border-box;
+  padding-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 0.2rem #047ffa;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-5m2 .most-read-S5n {
+  margin-bottom: 0.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-5m2 .border-AXa {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #666666;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-4N4 {
+  margin-bottom: 2.5rem;
+  width: 16.5rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-4N4 .author-Qgp {
+  margin: 0rem 5rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.4167rem;
+  width: calc(100% - 5rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-4N4 .author-Qgp .user-8si {
+  margin-right: 1.2167rem;
+  width: 1.1667rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-4N4 .author-Qgp .sarfraz-jasim-HVi {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-4N4 .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-pVe {
+  max-width: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .border-4un {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #666666;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-DXn {
+  width: 16.5rem;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-DXn .author-mJQ {
+  margin: 0rem 5rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.4167rem;
+  width: calc(100% - 5rem);
+  display: flex;
+  align-items: center;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-DXn .author-mJQ .user-ttp {
+  margin-right: 1.2167rem;
+  width: 1.1667rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-DXn .author-mJQ .sarfraz-jasim-qJG {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.0035rem;
+  color: #838383;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-mq2g-aKr .most-read-vt8 .most-read-i3J .title-meta-DXn .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-MGc {
+  max-width: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .footer-G4G .border-Sor {
+  margin: 0rem 0rem 4.7rem 0rem;
+  width: calc(100% - 0rem);
+  height: 0.1rem;
+  background-color: #666666;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-un7z-Azk {
+  margin: 0rem 0rem 5.2rem 0rem;
+  width: calc(100% - 0rem);
+  height: 6.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-un7z-Azk .title-VXE {
+  margin-right: 17.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-un7z-Azk .title-VXE .subscribe-for-daily-update-FFW {
+  margin-bottom: 0.6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.1875;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-un7z-Azk .title-VXE .no-scam-only-important-daily-weekly-and-monthly-update-ki4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-un7z-Azk .subscribe-input-4ik {
+  margin: 0.8rem 0rem 0.4rem 0rem;
+  box-sizing: border-box;
+  padding-left: 1.6rem;
+  height: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.15rem #666666;
+  background-color: rgba(217, 217, 217, 0.1199999973);
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-un7z-Azk .subscribe-input-4ik .enter-your-email-address-n8x {
+  margin-right: 19.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #838383;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .auto-group-un7z-Azk .subscribe-input-4ik .auto-group-wfxu-5tk {
+  width: 14.2rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.008rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #047ffa;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .border-YGY {
+  margin: 0rem 0rem 4.7rem 0rem;
+  width: calc(100% - 0rem);
+  height: 0.1rem;
+  background-color: #666666;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 {
+  margin-left: 0rem;
+  width: calc(100% - 0rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .copyright-2023-designed-by-wpxpo-nwa {
+  margin-right: 60.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .copyright-2023-designed-by-wpxpo-nwa .copyright-2023-designed-by-wpxpo-nwa-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .copyright-2023-designed-by-wpxpo-nwa .copyright-2023-designed-by-wpxpo-nwa-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #047ffa;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .social-Ppt {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .social-Ppt .follow-us-Yhn {
+  margin-right: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .social-Ppt .social-UrL {
+  box-sizing: border-box;
+  padding: 0.2rem 0.3rem 0.2rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .social-Ppt .social-UrL .ic-baseline-facebook-bAG {
+  margin: 0rem 2rem 0.005rem 0rem;
+  width: 2rem;
+  height: 1.995rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .social-Ppt .social-UrL .mdi-instagram-6si {
+  margin-right: 2.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .social-Ppt .social-UrL .simple-icons-threads-dMr {
+  margin-right: 2.1333rem;
+  width: 1.7207rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .social-Ppt .social-UrL .mdi-twitter-mDA {
+  margin: 0.1rem 2.054rem 0rem 0rem;
+  width: 2.092rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.triptalkhome-cDW .footer-G4G .footer-bottom-UR6 .social-Ppt .social-UrL .mdi-linkedin-gqv {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

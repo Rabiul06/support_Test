@@ -1,0 +1,4119 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.triptalkhome-cDW {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+
+  .navbar-d8c {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .top-nav-xKJ {
+      box-sizing: border-box;
+      padding: 3rem 16.5rem 3rem 16.5rem;
+      width: 100%;
+      height: 11.2rem;
+      display: flex;
+      align-items: center;
+      background-color: #fafafa;
+      flex-shrink: 0;
+
+      .social-cue {
+        display: flex;
+        column-gap: 1rem;
+        align-items: center;
+        flex-shrink: 0;
+        margin: 1rem 32.5rem 1rem 0rem;
+        height: calc(100% - 2rem);
+
+        .facebook-vvL {
+          height: 3.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 3.2rem;
+        }
+        .instagram-Fxc {
+          flex-shrink: 0;
+          width: 3.2rem;
+          height: 3.2rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .twitter-QKi {
+          width: 3.2rem;
+          height: 3.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .linkekin-keU {
+          width: 3.2rem;
+          height: 3.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .logo-Gcp {
+        margin-right: 32.3rem;
+        width: 14.4rem;
+        height: 5.2rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .search-1aQ {
+        height: calc(100% - 1.2rem);
+        display: flex;
+        align-items: center;
+        border: solid 0.15rem #0a0a0a;
+        flex-shrink: 0;
+        margin: 0.6rem 0rem 0.6rem 0rem;
+        box-sizing: border-box;
+        padding-left: 1.2rem;
+
+        .search-hy2 {
+          margin-right: 5.8rem;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          letter-spacing: 0.008rem;
+          flex-shrink: 0;
+          color: #838383;
+          font-family: Oswald, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .auto-group-pvha-PL4 {
+          width: 4rem;
+          height: 4rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .bottom-nav-UsJ {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 1.6rem 16.5rem;
+      width: 100%;
+      height: 7.2rem;
+      display: flex;
+      align-items: center;
+      background-color: #0a0a0a;
+
+      .menu-PjN {
+        flex-shrink: 0;
+        margin-right: 26.4rem;
+        width: 3.4rem;
+        height: 3.2rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .menu-Ksv {
+        display: flex;
+        column-gap: 3.2rem;
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0.8rem 18.2rem 0.8rem 0rem;
+        height: calc(100% - 1.6rem);
+
+        .home-FFn {
+          font-size: 1.6rem;
+          font-weight: 400;
+          color: #ffffff;
+          white-space: nowrap;
+          flex-shrink: 0;
+          line-height: 1.5;
+          letter-spacing: 0.008rem;
+          text-transform: uppercase;
+          font-family: Oswald, 'Source Sans Pro';
+        }
+        .menu-9rx {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding-right: 0.175rem;
+          height: 100%;
+
+          .categories-ubE {
+            text-transform: uppercase;
+            white-space: nowrap;
+            color: #ffffff;
+            font-family: Oswald, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin-right: 0.575rem;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            letter-spacing: 0.008rem;
+          }
+          .right-arrow-MrY {
+            width: 1.05rem;
+            height: 0.525rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .destination-JWt {
+          text-transform: uppercase;
+          font-family: Oswald, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          letter-spacing: 0.008rem;
+          color: #ffffff;
+        }
+        .blog-2St {
+          font-size: 1.6rem;
+          line-height: 1.5;
+          color: #ffffff;
+          font-family: Oswald, 'Source Sans Pro';
+          font-weight: 400;
+          letter-spacing: 0.008rem;
+          text-transform: uppercase;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .about-ZSp {
+          line-height: 1.5;
+          letter-spacing: 0.008rem;
+          white-space: nowrap;
+          font-size: 1.6rem;
+          font-weight: 400;
+          text-transform: uppercase;
+          color: #ffffff;
+          font-family: Oswald, 'Source Sans Pro';
+          flex-shrink: 0;
+        }
+        .contact-us-JQQ {
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          text-transform: uppercase;
+          color: #ffffff;
+          white-space: nowrap;
+          letter-spacing: 0.008rem;
+          font-family: Oswald, 'Source Sans Pro';
+        }
+      }
+      .auto-group-bmzg-dxU {
+        width: 11.7rem;
+        height: 100%;
+        flex-shrink: 0;
+
+        .cta-Byz {
+          height: 100%;
+          font-size: 1.6rem;
+          line-height: 1.5;
+          text-transform: uppercase;
+          width: 100%;
+          color: #ffffff;
+          background-color: #047ffa;
+          letter-spacing: 0.008rem;
+          white-space: nowrap;
+          align-items: center;
+          justify-content: center;
+          font-weight: 400;
+          font-family: Oswald, 'Source Sans Pro';
+          display: flex;
+        }
+      }
+    }
+  }
+  .auto-group-vwrg-5Jg {
+    padding: 4rem 16.4rem 8rem 16.5rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+
+    .frame-12-NHn {
+      width: calc(100% - 0.1rem);
+      height: 55.2rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 0.1rem 7rem 0rem;
+
+      .image-V7W {
+        flex-shrink: 0;
+        margin-right: 0.8rem;
+        width: 74.2rem;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: url('REPLACE_IMAGE:1:37');
+        height: 100%;
+        position: relative;
+        background-position: center;
+        background: linear-gradient(180deg, rgba(10, 10, 10, 0) 0%, rgba(10, 10, 10, 0.8000000119) 100%);
+
+        .pagination-RWx {
+          position: absolute;
+          left: 3.2rem;
+          top: 25.2rem;
+          display: flex;
+          align-items: center;
+          width: 67.8rem;
+          height: 4.8rem;
+
+          .left-arrow-YrU {
+            margin-right: 58.2rem;
+            width: 4.8rem;
+            height: 4.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            border-radius: 2.4rem;
+            flex-shrink: 0;
+          }
+          .right-arrow-fgC {
+            width: 4.8rem;
+            height: 4.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            border-radius: 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+        .frame-4-QNt {
+          width: 62.8rem;
+          height: 48.8rem;
+          position: absolute;
+          left: 3.2rem;
+          top: 3.2rem;
+
+          .taxonomy-XyJ {
+            margin-bottom: 34rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #ff290c;
+            width: 6.6rem;
+            font-weight: 400;
+            font-family: Roboto, 'Source Sans Pro';
+            height: 2.4rem;
+            letter-spacing: 0.0048rem;
+            white-space: nowrap;
+            font-size: 1.2rem;
+            line-height: 1.3333333333;
+            color: #ffffff;
+          }
+          .frame-3-cjr {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            .meta-NU8 {
+              margin-bottom: 0.8rem;
+              height: 2rem;
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+
+              .author-WKS {
+                margin-right: 1.6rem;
+                box-sizing: border-box;
+                padding-left: 0.4167rem;
+                height: 100%;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+
+                .user-BAg {
+                  width: 1.1667rem;
+                  height: 1.5rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin-right: 1.2167rem;
+                }
+                .sarfraz-jasim-6He {
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  line-height: 1.4285714286;
+                  letter-spacing: 0.0035rem;
+                  color: #ffffff;
+                  font-family: Roboto, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                }
+              }
+              .border-cFz {
+                margin-right: 1.5rem;
+                width: 0.1rem;
+                height: 2rem;
+                background-color: #ffffff;
+                flex-shrink: 0;
+              }
+              .date-jrQ {
+                padding-left: 0.25rem;
+                height: 100%;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+                box-sizing: border-box;
+
+                .calender-h2Y {
+                  margin: 0rem 1.046rem 0.071rem 0rem;
+                  width: 1.5042rem;
+                  height: 1.4292rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                }
+                .july-17-2023-orG {
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  line-height: 1.4285714286;
+                  letter-spacing: 0.0035rem;
+                  color: #ffffff;
+                  font-family: Roboto, 'Source Sans Pro';
+                }
+              }
+            }
+            .everything-you-need-to-know-to-see-the-northern-light-in-norway-8tY {
+              text-transform: uppercase;
+              color: #ffffff;
+              font-family: Oswald, 'Source Sans Pro';
+              flex-shrink: 0;
+              max-width: 62.8rem;
+              font-size: 3.8rem;
+              font-weight: 700;
+              line-height: 1.2631578947;
+            }
+          }
+        }
+      }
+      .auto-group-pkyp-YxG {
+        width: 36rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .image-6it {
+          margin-bottom: 0.8rem;
+          box-sizing: border-box;
+          width: 100%;
+          background-image: url('REPLACE_IMAGE:b724c926f7d6f2470aa403a23531d5165a13fda6');
+          background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+          flex-shrink: 0;
+          padding: 2.4rem;
+          height: 27.2rem;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+
+          .frame-7-S24 {
+            width: 26.1rem;
+            height: 100%;
+
+            .taxonomy-nLp {
+              margin: 0rem 0rem 11.2rem 0.4rem;
+              width: 6.6rem;
+              letter-spacing: 0.0048rem;
+              white-space: nowrap;
+              align-items: center;
+              font-weight: 400;
+              display: flex;
+              justify-content: center;
+              height: 2.4rem;
+              color: #ffffff;
+              font-size: 1.2rem;
+              line-height: 1.3333333333;
+              font-family: Roboto, 'Source Sans Pro';
+              background-color: #047ffa;
+            }
+            .frame-6-Thr {
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+
+              .date-d6Y {
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+                margin: 0rem 15rem 0.8rem 0rem;
+                box-sizing: border-box;
+                padding-left: 0.25rem;
+                width: calc(100% - 15rem);
+
+                .calender-YzC {
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin: 0rem 1.046rem 0.071rem 0rem;
+                  width: 1.5042rem;
+                  height: 1.4292rem;
+                  object-fit: contain;
+                }
+                .july-17-2023-Usr {
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  line-height: 1.4285714286;
+                  letter-spacing: 0.0035rem;
+                  color: #ffffff;
+                  font-family: Roboto, 'Source Sans Pro';
+                }
+              }
+              .everything-you-need-to-know-to-see-the-northern-light-cUG {
+                font-weight: 700;
+                line-height: 1.5;
+                text-transform: uppercase;
+                color: #ffffff;
+                font-family: Oswald, 'Source Sans Pro';
+                flex-shrink: 0;
+                max-width: 26.1rem;
+                font-size: 2rem;
+              }
+            }
+          }
+        }
+        .image-2Xz {
+          padding: 2.4rem;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-image: url('REPLACE_IMAGE:321c4cb81af271c7386495eb69591eb621047793');
+          flex-shrink: 0;
+          box-sizing: border-box;
+          width: 100%;
+          height: 27.2rem;
+          background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+
+          .frame-10-mVa {
+            width: 26.1rem;
+            height: 100%;
+
+            .taxonomy-vNU {
+              background-color: #ce0bff;
+              margin-bottom: 11.2rem;
+              height: 2.4rem;
+              letter-spacing: 0.0048rem;
+              color: #ffffff;
+              white-space: nowrap;
+              display: flex;
+              align-items: center;
+              width: 6.6rem;
+              font-weight: 400;
+              line-height: 1.3333333333;
+              font-family: Roboto, 'Source Sans Pro';
+              justify-content: center;
+              font-size: 1.2rem;
+            }
+            .frame-9-pCx {
+              display: flex;
+              flex-direction: column;
+              width: 100%;
+
+              .date-aT2 {
+                flex-shrink: 0;
+                margin: 0rem 15rem 0.8rem 0rem;
+                box-sizing: border-box;
+                padding-left: 0.25rem;
+                width: calc(100% - 15rem);
+                display: flex;
+                align-items: center;
+
+                .calender-hnY {
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin: 0rem 1.046rem 0.071rem 0rem;
+                  width: 1.5042rem;
+                  height: 1.4292rem;
+                  object-fit: contain;
+                }
+                .july-17-2023-dRJ {
+                  font-family: Roboto, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  line-height: 1.4285714286;
+                  letter-spacing: 0.0035rem;
+                  color: #ffffff;
+                }
+              }
+              .everything-you-need-to-know-to-see-the-northern-light-xCg {
+                line-height: 1.5;
+                text-transform: uppercase;
+                color: #ffffff;
+                font-family: Oswald, 'Source Sans Pro';
+                flex-shrink: 0;
+                max-width: 26.1rem;
+                font-size: 2rem;
+                font-weight: 700;
+              }
+            }
+          }
+        }
+      }
+    }
+    .frame-18-zv4 {
+      margin: 0rem 0.1rem 7rem 0rem;
+      width: 111rem;
+      flex-shrink: 0;
+
+      .where-do-you-want-to-go-LU8 {
+        width: 100%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #0a0a0a;
+        white-space: nowrap;
+        margin-bottom: 3.1rem;
+        font-size: 3.2rem;
+        font-weight: 700;
+        line-height: 1.4375;
+        font-family: Oswald, 'Source Sans Pro';
+      }
+      .frame-17-3NY {
+        display: flex;
+        column-gap: 3rem;
+        align-items: center;
+        width: 100%;
+        height: 23rem;
+
+        .image-z2t {
+          box-sizing: border-box;
+          width: 25.5rem;
+          background-repeat: no-repeat;
+          flex-shrink: 0;
+          background-image: url('REPLACE_IMAGE:7f2a3c342cae912c5a9a7a5d02c2dfc88a5561c2');
+          background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+          padding: 15.2rem 1.6rem 1.6rem 1.6rem;
+          height: 100%;
+          background-size: 100% 100%;
+          background-position: center;
+
+          .new-york-hxt {
+            width: 16.5rem;
+            height: 100%;
+
+            .new-york-GWC {
+              line-height: 1.125;
+              text-transform: uppercase;
+              color: #ffffff;
+              font-family: Oswald, 'Source Sans Pro';
+              white-space: nowrap;
+              margin-bottom: 0.2rem;
+              font-size: 3.2rem;
+              font-weight: 700;
+            }
+            .what-an-amazing-view-boN {
+              font-size: 1.6rem;
+              font-weight: 500;
+              line-height: 1.5;
+              letter-spacing: 0.0016rem;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+        }
+        .image-HAQ {
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+          box-sizing: border-box;
+          height: 100%;
+          background-position: center;
+          background-image: url('REPLACE_IMAGE:d42cc1ec5b632915c0f7ab1f387b17ebf6b861c5');
+          flex-shrink: 0;
+          padding: 15.2rem 1.6rem 1.6rem 1.6rem;
+          width: 25.5rem;
+
+          .new-york-RGc {
+            height: 100%;
+            width: 19.9rem;
+
+            .africa-yZ2 {
+              line-height: 1.125;
+              text-transform: uppercase;
+              color: #ffffff;
+              font-family: Oswald, 'Source Sans Pro';
+              white-space: nowrap;
+              margin-bottom: 0.2rem;
+              font-size: 3.2rem;
+              font-weight: 700;
+            }
+            .land-of-mystery-and-music-Wor {
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              font-size: 1.6rem;
+              font-weight: 500;
+              line-height: 1.5;
+              letter-spacing: 0.0016rem;
+            }
+          }
+        }
+        .image-oHA {
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-image: url('REPLACE_IMAGE:2fbcbce33e79d3e3d4b533e63a84fb94f96070b3');
+          background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 15.2rem 1.6rem 1.6rem 1.6rem;
+          width: 25.5rem;
+          height: 100%;
+
+          .new-york-8qE {
+            width: 18.3rem;
+            height: 100%;
+
+            .europe-tZW {
+              font-family: Oswald, 'Source Sans Pro';
+              white-space: nowrap;
+              margin-bottom: 0.2rem;
+              font-size: 3.2rem;
+              font-weight: 700;
+              line-height: 1.125;
+              text-transform: uppercase;
+              color: #ffffff;
+            }
+            .visit-foe-amazing-history-RpL {
+              font-size: 1.6rem;
+              font-weight: 500;
+              line-height: 1.5;
+              letter-spacing: 0.0016rem;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+        }
+        .image-VZJ {
+          background-repeat: no-repeat;
+          background-image: url('REPLACE_IMAGE:321c4cb81af271c7386495eb69591eb621047793');
+          background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.8000000119) 100%);
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 15.2rem 1.6rem 1.6rem 1.6rem;
+          background-size: 100% 100%;
+          width: 25.5rem;
+          height: 100%;
+          background-position: center;
+
+          .new-york-q7N {
+            height: 100%;
+            width: 15rem;
+
+            .aisa-zW4 {
+              font-family: Oswald, 'Source Sans Pro';
+              white-space: nowrap;
+              margin-bottom: 0.2rem;
+              font-size: 3.2rem;
+              font-weight: 700;
+              line-height: 1.125;
+              text-transform: uppercase;
+              color: #ffffff;
+            }
+            .visit-for-honeymoon-8sA {
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              font-size: 1.6rem;
+              font-weight: 500;
+              line-height: 1.5;
+              letter-spacing: 0.0016rem;
+              color: #ffffff;
+            }
+          }
+        }
+      }
+    }
+    .top-destination-D7v {
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-weight: 700;
+      color: #0a0a0a;
+      font-size: 3.2rem;
+      line-height: 1.4375;
+      text-transform: uppercase;
+      font-family: Oswald, 'Source Sans Pro';
+      margin: 0rem 88.3rem 3.1rem 0rem;
+      text-align: center;
+    }
+    .frame-19-Jv4 {
+      column-gap: 3rem;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 0.1rem 6rem 0rem;
+      height: 34rem;
+      display: flex;
+
+      .destination-1-qQC {
+        width: 25.5rem;
+        height: 100%;
+        flex-shrink: 0;
+
+        .image-Byr {
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+          margin-bottom: 1.6rem;
+          box-sizing: border-box;
+          padding: 2.4rem;
+          width: 100%;
+          height: 19.6rem;
+          background-image: url('REPLACE_IMAGE:401dacba25d181b1c9c46b5e1be89f6a09d892af');
+
+          .taxonomy-vgY {
+            letter-spacing: 0.0048rem;
+            width: 6.6rem;
+            height: 2.4rem;
+            color: #ffffff;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Roboto, 'Source Sans Pro';
+            margin: 0rem 14.1rem 12.4rem 0rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.3333333333;
+            background-color: #047ffa;
+          }
+        }
+        .title-cta-kvU {
+          width: 23.5rem;
+
+          .title-meta-Jh6 {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 2rem;
+            width: 100%;
+
+            .date-4AU {
+              margin: 0rem 12.4rem 0.8rem 0rem;
+              box-sizing: border-box;
+              padding-left: 0.25rem;
+              width: calc(100% - 12.4rem);
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+
+              .calender-z48 {
+                margin: 0rem 1.046rem 0.071rem 0rem;
+                width: 1.5042rem;
+                height: 1.4292rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .july-17-2023-Wwa {
+                letter-spacing: 0.0035rem;
+                color: #838383;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.4rem;
+                font-weight: 400;
+                line-height: 1.4285714286;
+              }
+            }
+            .everything-you-need-to-know-to-see-the-northern-light-E6t {
+              flex-shrink: 0;
+              max-width: 23.5rem;
+              font-size: 1.8rem;
+              font-weight: 700;
+              line-height: 1.5555555556;
+              text-transform: uppercase;
+              color: #0a0a0a;
+              font-family: Oswald, 'Source Sans Pro';
+            }
+          }
+          .read-more-wX6 {
+            box-sizing: border-box;
+            padding-right: 0.225rem;
+            width: calc(100% - 13.1rem);
+            display: flex;
+            align-items: center;
+            margin-right: 13.1rem;
+
+            .read-more-5NQ {
+              flex-shrink: 0;
+              font-size: 1.6rem;
+              color: #838383;
+              line-height: 1.5;
+              letter-spacing: 0.0016rem;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              margin-right: 1.025rem;
+              font-weight: 500;
+            }
+            .right-arrow-v2-QQg {
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-bottom: 0rem;
+              width: 1.35rem;
+              height: 1.1475rem;
+            }
+          }
+        }
+      }
+      .destination-2-XkC {
+        height: 100%;
+        flex-shrink: 0;
+        width: 25.5rem;
+
+        .image-5Wp {
+          padding: 2.4rem;
+          height: 19.6rem;
+          width: 100%;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-image: url('REPLACE_IMAGE:3101d9e49e91f3118d19b294df494ec66b8181bb');
+          margin-bottom: 1.6rem;
+          box-sizing: border-box;
+
+          .taxonomy-R4t {
+            align-items: center;
+            height: 2.4rem;
+            font-size: 1.2rem;
+            letter-spacing: 0.0048rem;
+            white-space: nowrap;
+            line-height: 1.3333333333;
+            font-family: Roboto, 'Source Sans Pro';
+            justify-content: center;
+            margin: 0rem 14.1rem 12.4rem 0rem;
+            font-weight: 400;
+            color: #ffffff;
+            display: flex;
+            width: 6.6rem;
+            background-color: #ce0bff;
+          }
+        }
+        .title-cta-sSg {
+          width: 23.5rem;
+
+          .title-meta-q8c {
+            margin-bottom: 2rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            .date-NuE {
+              flex-shrink: 0;
+              margin: 0rem 12.4rem 0.8rem 0rem;
+              box-sizing: border-box;
+              padding-left: 0.25rem;
+              width: calc(100% - 12.4rem);
+              display: flex;
+              align-items: center;
+
+              .calender-hwW {
+                height: 1.4292rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+                margin: 0rem 1.046rem 0.071rem 0rem;
+                width: 1.5042rem;
+              }
+              .july-17-2023-Rcc {
+                line-height: 1.4285714286;
+                letter-spacing: 0.0035rem;
+                color: #838383;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.4rem;
+                font-weight: 400;
+              }
+            }
+            .everything-you-need-to-know-to-see-the-northern-light-LzU {
+              line-height: 1.5555555556;
+              text-transform: uppercase;
+              color: #0a0a0a;
+              font-family: Oswald, 'Source Sans Pro';
+              flex-shrink: 0;
+              max-width: 23.5rem;
+              font-size: 1.8rem;
+              font-weight: 700;
+            }
+          }
+          .read-more-TpC {
+            margin-right: 13.1rem;
+            box-sizing: border-box;
+            padding-right: 0.225rem;
+            width: calc(100% - 13.1rem);
+            display: flex;
+            align-items: center;
+
+            .read-more-152 {
+              font-size: 1.6rem;
+              font-weight: 500;
+              letter-spacing: 0.0016rem;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              margin-right: 1.025rem;
+              line-height: 1.5;
+              color: #838383;
+              flex-shrink: 0;
+            }
+            .right-arrow-v2-Vkt {
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-bottom: 0rem;
+              width: 1.35rem;
+              height: 1.1475rem;
+              object-fit: contain;
+            }
+          }
+        }
+      }
+      .destination-3-Dgt {
+        flex-shrink: 0;
+        width: 25.5rem;
+        height: 100%;
+
+        .image-mTW {
+          padding: 2.4rem;
+          background-size: 100% 100%;
+          background-image: url('REPLACE_IMAGE:4cfb65f206fc64cdfda014d7b1318edaee825d19');
+          background-position: center;
+          margin-bottom: 1.6rem;
+          box-sizing: border-box;
+          width: 100%;
+          height: 19.6rem;
+          background-repeat: no-repeat;
+
+          .taxonomy-JiL {
+            margin: 0rem 14.1rem 12.4rem 0rem;
+            font-family: Roboto, 'Source Sans Pro';
+            display: flex;
+            justify-content: center;
+            background-color: #ff290c;
+            font-size: 1.2rem;
+            font-weight: 400;
+            color: #ffffff;
+            white-space: nowrap;
+            line-height: 1.3333333333;
+            letter-spacing: 0.0048rem;
+            align-items: center;
+            width: 6.6rem;
+            height: 2.4rem;
+          }
+        }
+        .title-cta-9yr {
+          width: 23.5rem;
+
+          .title-meta-ui8 {
+            flex-direction: column;
+            margin-bottom: 2rem;
+            width: 100%;
+            display: flex;
+
+            .date-s9A {
+              width: calc(100% - 12.4rem);
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+              margin: 0rem 12.4rem 0.8rem 0rem;
+              box-sizing: border-box;
+              padding-left: 0.25rem;
+
+              .calender-PtC {
+                width: 1.5042rem;
+                height: 1.4292rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+                margin: 0rem 1.046rem 0.071rem 0rem;
+              }
+              .july-17-2023-Wxp {
+                font-weight: 400;
+                line-height: 1.4285714286;
+                letter-spacing: 0.0035rem;
+                color: #838383;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.4rem;
+              }
+            }
+            .everything-you-need-to-know-to-see-the-northern-light-qkC {
+              font-size: 1.8rem;
+              font-weight: 700;
+              line-height: 1.5555555556;
+              text-transform: uppercase;
+              color: #0a0a0a;
+              font-family: Oswald, 'Source Sans Pro';
+              flex-shrink: 0;
+              max-width: 23.5rem;
+            }
+          }
+          .read-more-xZv {
+            margin-right: 13.1rem;
+            box-sizing: border-box;
+            padding-right: 0.225rem;
+            width: calc(100% - 13.1rem);
+            display: flex;
+            align-items: center;
+
+            .read-more-tyN {
+              letter-spacing: 0.0016rem;
+              color: #838383;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              margin-right: 1.025rem;
+              font-size: 1.6rem;
+              flex-shrink: 0;
+              font-weight: 500;
+              line-height: 1.5;
+            }
+            .right-arrow-v2-RCc {
+              height: 1.1475rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-bottom: 0rem;
+              width: 1.35rem;
+            }
+          }
+        }
+      }
+      .destination-4-LKa {
+        width: 25.5rem;
+        height: 100%;
+        flex-shrink: 0;
+
+        .image-hA8 {
+          background-position: center;
+          margin-bottom: 1.6rem;
+          padding: 2.4rem;
+          width: 100%;
+          background-repeat: no-repeat;
+          background-image: url('REPLACE_IMAGE:da2e105ac737d11f0e9f3e7d2c9836d3c4f83dc1');
+          box-sizing: border-box;
+          height: 19.6rem;
+          background-size: 100% 100%;
+
+          .taxonomy-S7i {
+            margin: 0rem 14.1rem 12.4rem 0rem;
+            font-family: Roboto, 'Source Sans Pro';
+            align-items: center;
+            background-color: #ce0bff;
+            width: 6.6rem;
+            line-height: 1.3333333333;
+            letter-spacing: 0.0048rem;
+            display: flex;
+            justify-content: center;
+            height: 2.4rem;
+            font-size: 1.2rem;
+            color: #ffffff;
+            font-weight: 400;
+            white-space: nowrap;
+          }
+        }
+        .title-cta-hJY {
+          width: 23.5rem;
+
+          .title-meta-496 {
+            margin-bottom: 2rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            .date-p8G {
+              box-sizing: border-box;
+              padding-left: 0.25rem;
+              width: calc(100% - 12.4rem);
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+              margin: 0rem 12.4rem 0.8rem 0rem;
+
+              .calender-kGp {
+                margin: 0rem 1.046rem 0.071rem 0rem;
+                width: 1.5042rem;
+                height: 1.4292rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .july-17-2023-Uic {
+                font-weight: 400;
+                line-height: 1.4285714286;
+                letter-spacing: 0.0035rem;
+                color: #838383;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.4rem;
+              }
+            }
+            .everything-you-need-to-know-to-see-the-northern-light-QcG {
+              flex-shrink: 0;
+              max-width: 23.5rem;
+              font-size: 1.8rem;
+              font-weight: 700;
+              line-height: 1.5555555556;
+              text-transform: uppercase;
+              color: #0a0a0a;
+              font-family: Oswald, 'Source Sans Pro';
+            }
+          }
+          .read-more-j8k {
+            align-items: center;
+            margin-right: 13.1rem;
+            box-sizing: border-box;
+            padding-right: 0.225rem;
+            width: calc(100% - 13.1rem);
+            display: flex;
+
+            .read-more-GPa {
+              font-size: 1.6rem;
+              font-weight: 500;
+              color: #838383;
+              white-space: nowrap;
+              margin-right: 1.025rem;
+              letter-spacing: 0.0016rem;
+              font-family: Roboto, 'Source Sans Pro';
+              flex-shrink: 0;
+              line-height: 1.5;
+            }
+            .right-arrow-v2-C2L {
+              margin-bottom: 0rem;
+              width: 1.35rem;
+              height: 1.1475rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+          }
+        }
+      }
+    }
+    .ad-1-iFa {
+      width: 100%;
+      height: 20.8rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .ad-image-4qE {
+        vertical-align: top;
+        width: 111.1rem;
+        height: 20.8rem;
+        position: absolute;
+        left: 0;
+        top: 0;
+        object-fit: contain;
+      }
+      .ad-title-cta-QPJ {
+        left: 5.7rem;
+        top: 4.8rem;
+        display: flex;
+        align-items: center;
+        width: 99.8rem;
+        height: 11.2rem;
+        position: absolute;
+
+        .gutenberg-post-blocks-8q6 {
+          max-width: 20rem;
+          font-size: 4.4rem;
+          letter-spacing: 0.011rem;
+          color: #ffffff;
+          font-family: Oswald, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin-right: 63rem;
+          font-weight: 500;
+          line-height: 1.2727272727;
+
+          .gutenberg-post-blocks-8q6-sub-0 {
+            font-size: 4.4rem;
+            font-weight: 400;
+            line-height: 1.2727272727;
+            letter-spacing: 0.011rem;
+            color: #ffffff;
+            font-family: Oswald, 'Source Sans Pro';
+          }
+          .gutenberg-post-blocks-8q6-sub-1 {
+          }
+        }
+        .read-more-VBn {
+          font-weight: 500;
+          letter-spacing: 0.0016rem;
+          white-space: nowrap;
+          justify-content: center;
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          background-color: #047ffa;
+          font-family: Roboto, 'Source Sans Pro';
+          display: flex;
+          align-items: center;
+          height: calc(100% - 6rem);
+          width: 16.8rem;
+          line-height: 1.5;
+          color: #ffffff;
+          margin: 3rem 0;
+        }
+      }
+    }
+  }
+  .auto-group-besk-xLG {
+    flex-shrink: 0;
+    margin-bottom: 6.9rem;
+    box-sizing: border-box;
+    padding: 6.9rem 16.9rem 8.4rem 16.5rem;
+    width: 100%;
+    height: 86.4rem;
+    background-color: #fafafa;
+
+    .frame-24-sTE {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+
+      .discover-most-amazing-places-2qv {
+        font-size: 3.2rem;
+        line-height: 1.4375;
+        font-family: Oswald, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 3.1rem;
+        text-align: center;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #0a0a0a;
+        width: 100%;
+      }
+      .frame-23-xDn {
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+        width: 100%;
+        height: 63.4rem;
+
+        .amazing-places-VUc {
+          margin-right: 3rem;
+          width: 54rem;
+          height: 100%;
+          flex-shrink: 0;
+
+          .image-Sek {
+            padding: 2.4rem;
+            background-size: 100% 100%;
+            background-position: center;
+            margin-bottom: 1.6rem;
+            box-sizing: border-box;
+            width: 100%;
+            height: 40rem;
+            background-repeat: no-repeat;
+            background-image: url('REPLACE_IMAGE:274a0835a0337a6c2fac5204e6d9844de91d18a4');
+
+            .taxonomy-PZz {
+              display: flex;
+              margin: 0rem 42.6rem 32.8rem 0rem;
+              width: 6.6rem;
+              white-space: nowrap;
+              font-size: 1.2rem;
+              font-weight: 400;
+              justify-content: center;
+              background-color: #ce0bff;
+              height: 2.4rem;
+              line-height: 1.3333333333;
+              letter-spacing: 0.0048rem;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              align-items: center;
+            }
+          }
+          .title-cta-dUL {
+            width: 46.7rem;
+
+            .title-text-Bkk {
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+              margin-bottom: 2.4rem;
+
+              .title-meta-wV2 {
+                margin-bottom: 1.4rem;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+
+                .meta-Hon {
+                  margin-bottom: 0.8rem;
+                  height: 2rem;
+                  display: flex;
+                  align-items: center;
+                  flex-shrink: 0;
+
+                  .author-SAt {
+                    display: flex;
+                    align-items: center;
+                    flex-shrink: 0;
+                    margin-right: 1.6rem;
+                    box-sizing: border-box;
+                    padding-left: 0.4167rem;
+                    height: 100%;
+
+                    .user-ygc {
+                      height: 1.5rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin-right: 1.2167rem;
+                      width: 1.1667rem;
+                    }
+                    .sarfraz-jasim-KEg {
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                    }
+                  }
+                  .border-qTv {
+                    flex-shrink: 0;
+                    margin-right: 1.5rem;
+                    width: 0.1rem;
+                    height: 2rem;
+                    background-color: #838383;
+                  }
+                  .date-nPA {
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    height: 100%;
+                    display: flex;
+                    align-items: center;
+                    flex-shrink: 0;
+
+                    .calender-8hv {
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                    }
+                    .july-17-2023-FnY {
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                  }
+                }
+                .everything-you-need-to-know-to-see-the-northern-lights-NcG {
+                  max-width: 41.7rem;
+                  font-size: 3.2rem;
+                  font-weight: 700;
+                  line-height: 1.25;
+                  text-transform: uppercase;
+                  color: #0a0a0a;
+                  font-family: Oswald, 'Source Sans Pro';
+                  flex-shrink: 0;
+                }
+              }
+              .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-a-master-suite-with-private-terrace-and-anny-HDS {
+                max-width: 46.7rem;
+                font-size: 1.6rem;
+                font-weight: 400;
+                line-height: 1.5;
+                color: #838383;
+                font-family: Roboto, 'Source Sans Pro';
+                flex-shrink: 0;
+              }
+            }
+            .read-more-Mj6 {
+              align-items: center;
+              margin-right: 36.3rem;
+              box-sizing: border-box;
+              padding-right: 0.225rem;
+              width: calc(100% - 36.3rem);
+              display: flex;
+
+              .read-more-h2G {
+                font-weight: 500;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                margin-right: 1.025rem;
+                line-height: 1.5;
+                letter-spacing: 0.0016rem;
+                color: #838383;
+                flex-shrink: 0;
+                font-size: 1.6rem;
+              }
+              .right-arrow-v2-1oe {
+                height: 1.1475rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+                width: 1.35rem;
+              }
+            }
+          }
+        }
+        .auto-group-pqek-9ex {
+          width: 53.6rem;
+          row-gap: 3rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .frame-20-Ux8 {
+            width: 100%;
+            height: 18.8rem;
+            display: flex;
+            align-items: flex-start;
+            flex-shrink: 0;
+
+            .image-qGt {
+              padding: 2.4rem;
+              width: 25.5rem;
+              background-size: 100% 100%;
+              background-image: url('REPLACE_IMAGE:2fbcbce33e79d3e3d4b533e63a84fb94f96070b3');
+              flex-shrink: 0;
+              margin-right: 2rem;
+              box-sizing: border-box;
+              height: 100%;
+              background-repeat: no-repeat;
+              background-position: center;
+
+              .taxonomy-aVN {
+                letter-spacing: 0.0048rem;
+                color: #ffffff;
+                font-family: Roboto, 'Source Sans Pro';
+                justify-content: center;
+                height: 2.4rem;
+                align-items: center;
+                background-color: #ff290c;
+                font-weight: 400;
+                white-space: nowrap;
+                margin: 0rem 14.1rem 11.6rem 0rem;
+                width: 6.6rem;
+                font-size: 1.2rem;
+                line-height: 1.3333333333;
+                display: flex;
+              }
+            }
+            .title-cta-dTe {
+              width: 26.1rem;
+              flex-shrink: 0;
+
+              .title-text-Bk4 {
+                display: flex;
+                flex-direction: column;
+                margin-bottom: 1.8rem;
+                width: 100%;
+
+                .title-meta-wUL {
+                  margin-bottom: 1rem;
+                  width: 100%;
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+
+                  .date-teU {
+                    align-items: center;
+                    flex-shrink: 0;
+                    margin: 0rem 15rem 0.8rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 15rem);
+                    display: flex;
+
+                    .calender-1yz {
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                    }
+                    .july-17-2023-wck {
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-5DA {
+                    line-height: 1.4;
+                    text-transform: uppercase;
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    flex-shrink: 0;
+                    max-width: 26.1rem;
+                    font-size: 2rem;
+                    font-weight: 700;
+                  }
+                }
+                .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-bBW {
+                  flex-shrink: 0;
+                  max-width: 25.9rem;
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                }
+              }
+              .read-more-hkL {
+                margin-right: 15.7rem;
+                box-sizing: border-box;
+                padding-right: 0.225rem;
+                width: calc(100% - 15.7rem);
+                display: flex;
+                align-items: center;
+
+                .read-more-qbe {
+                  font-family: Roboto, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  font-weight: 500;
+                  letter-spacing: 0.0016rem;
+                  line-height: 1.5;
+                  color: #838383;
+                  margin-right: 1.025rem;
+                  font-size: 1.6rem;
+                }
+                .right-arrow-v2-xwA {
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  width: 1.35rem;
+                  height: 1.1475rem;
+                  object-fit: contain;
+                }
+              }
+            }
+          }
+          .frame-21-h84 {
+            flex-shrink: 0;
+            width: 100%;
+            height: 18.8rem;
+            display: flex;
+            align-items: flex-start;
+
+            .image-SbS {
+              width: 25.5rem;
+              background-size: 100% 100%;
+              box-sizing: border-box;
+              padding: 2.4rem;
+              background-repeat: no-repeat;
+              background-position: center;
+              background-image: url('REPLACE_IMAGE:7f2a3c342cae912c5a9a7a5d02c2dfc88a5561c2');
+              flex-shrink: 0;
+              margin-right: 2rem;
+              height: 100%;
+
+              .taxonomy-n9W {
+                font-size: 1.2rem;
+                font-family: Roboto, 'Source Sans Pro';
+                height: 2.4rem;
+                display: flex;
+                background-color: #ce0bff;
+                justify-content: center;
+                letter-spacing: 0.0048rem;
+                color: #ffffff;
+                align-items: center;
+                line-height: 1.3333333333;
+                white-space: nowrap;
+                margin: 0rem 14.1rem 11.6rem 0rem;
+                width: 6.6rem;
+                font-weight: 400;
+              }
+            }
+            .title-cta-RiG {
+              width: 26.1rem;
+              flex-shrink: 0;
+
+              .title-text-nHv {
+                margin-bottom: 1.8rem;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+
+                .title-meta-8sa {
+                  flex-shrink: 0;
+                  margin-bottom: 1rem;
+                  width: 100%;
+                  display: flex;
+                  flex-direction: column;
+
+                  .date-h9z {
+                    margin: 0rem 15rem 0.8rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 15rem);
+                    display: flex;
+                    align-items: center;
+                    flex-shrink: 0;
+
+                    .calender-q1J {
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                    }
+                    .july-17-2023-xLp {
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-sya {
+                    text-transform: uppercase;
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    flex-shrink: 0;
+                    max-width: 26.1rem;
+                    font-size: 2rem;
+                    font-weight: 700;
+                    line-height: 1.4;
+                  }
+                }
+                .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-Pwv {
+                  max-width: 25.9rem;
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  flex-shrink: 0;
+                }
+              }
+              .read-more-77E {
+                align-items: center;
+                margin-right: 15.7rem;
+                box-sizing: border-box;
+                padding-right: 0.225rem;
+                width: calc(100% - 15.7rem);
+                display: flex;
+
+                .read-more-eN4 {
+                  margin-right: 1.025rem;
+                  font-weight: 500;
+                  letter-spacing: 0.0016rem;
+                  flex-shrink: 0;
+                  font-size: 1.6rem;
+                  line-height: 1.5;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  white-space: nowrap;
+                }
+                .right-arrow-v2-NJ4 {
+                  width: 1.35rem;
+                  height: 1.1475rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                }
+              }
+            }
+          }
+          .frame-22-hr8 {
+            flex-shrink: 0;
+            width: 100%;
+            height: 18.8rem;
+            display: flex;
+            align-items: flex-start;
+
+            .image-rj2 {
+              margin-right: 2rem;
+              box-sizing: border-box;
+              background-repeat: no-repeat;
+              flex-shrink: 0;
+              padding: 2.4rem;
+              width: 25.5rem;
+              height: 100%;
+              background-size: 100% 100%;
+              background-position: center;
+              background-image: url('REPLACE_IMAGE:3101d9e49e91f3118d19b294df494ec66b8181bb');
+
+              .taxonomy-QVe {
+                line-height: 1.3333333333;
+                letter-spacing: 0.0048rem;
+                color: #ffffff;
+                background-color: #0c99ff;
+                width: 6.6rem;
+                height: 2.4rem;
+                font-weight: 400;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                display: flex;
+                margin: 0rem 14.1rem 11.6rem 0rem;
+                font-size: 1.2rem;
+                align-items: center;
+                justify-content: center;
+              }
+            }
+            .title-cta-3Yc {
+              flex-shrink: 0;
+              width: 26.1rem;
+
+              .title-text-PsN {
+                margin-bottom: 1.8rem;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+
+                .title-meta-wtt {
+                  margin-bottom: 1rem;
+                  width: 100%;
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+
+                  .date-tp8 {
+                    margin: 0rem 15rem 0.8rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 15rem);
+                    display: flex;
+                    align-items: center;
+                    flex-shrink: 0;
+
+                    .calender-29e {
+                      width: 1.5042rem;
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                    }
+                    .july-17-2023-Lw2 {
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-H5a {
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    flex-shrink: 0;
+                    max-width: 26.1rem;
+                    font-size: 2rem;
+                    font-weight: 700;
+                    line-height: 1.4;
+                    text-transform: uppercase;
+                  }
+                }
+                .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-oJp {
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  flex-shrink: 0;
+                  max-width: 25.9rem;
+                }
+              }
+              .read-more-KY4 {
+                padding-right: 0.225rem;
+                width: calc(100% - 15.7rem);
+                display: flex;
+                align-items: center;
+                margin-right: 15.7rem;
+                box-sizing: border-box;
+
+                .read-more-3U4 {
+                  margin-right: 1.025rem;
+                  font-weight: 500;
+                  letter-spacing: 0.0016rem;
+                  white-space: nowrap;
+                  font-size: 1.6rem;
+                  line-height: 1.5;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  flex-shrink: 0;
+                }
+                .right-arrow-v2-mex {
+                  flex-shrink: 0;
+                  width: 1.35rem;
+                  height: 1.1475rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .frame-40-gmv {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin: 0rem 16.5rem 8rem 16.5rem;
+    width: calc(100% - 33rem);
+
+    .frame-39-RDi {
+      align-items: flex-start;
+      flex-shrink: 0;
+      margin-bottom: 6rem;
+      width: 100%;
+      height: 190.5rem;
+      display: flex;
+
+      .auto-group-unak-ZKv {
+        margin-right: 5rem;
+        width: 73rem;
+        height: 100%;
+        flex-shrink: 0;
+
+        .latest-from-my-journal-hh2 {
+          line-height: 1.4375;
+          text-transform: uppercase;
+          color: #0a0a0a;
+          margin-bottom: 3.1rem;
+          width: 100%;
+          font-weight: 700;
+          font-family: Oswald, 'Source Sans Pro';
+          white-space: nowrap;
+          text-align: center;
+          font-size: 3.2rem;
+        }
+        .frame-38-cZ6 {
+          width: 100%;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+
+          .frame-25-NYG {
+            margin-bottom: 3.6rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .image-8GY {
+              padding: 2.4rem;
+              width: 100%;
+              height: 54.8rem;
+              background-size: 100% 100%;
+              background-position: center;
+              margin-bottom: 1.6rem;
+              background-repeat: no-repeat;
+              background-image: url('REPLACE_IMAGE:c4c71adf1c29a57db4272f70e6db5c7c53172251');
+              flex-shrink: 0;
+              box-sizing: border-box;
+
+              .taxonomy-TZi {
+                height: 2.4rem;
+                line-height: 1.3333333333;
+                font-family: Roboto, 'Source Sans Pro';
+                justify-content: center;
+                background-color: #ce0bff;
+                width: 6.6rem;
+                font-size: 1.2rem;
+                letter-spacing: 0.0048rem;
+                white-space: nowrap;
+                margin: 0rem 61.6rem 47.6rem 0rem;
+                font-weight: 400;
+                color: #ffffff;
+                display: flex;
+                align-items: center;
+              }
+            }
+            .title-cta-4pQ {
+              width: 69.9rem;
+              flex-shrink: 0;
+
+              .title-text-pYg {
+                flex-direction: column;
+                margin-bottom: 2.4rem;
+                width: 100%;
+                display: flex;
+
+                .title-meta-AcY {
+                  margin-bottom: 1.4rem;
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+
+                  .meta-83a {
+                    display: flex;
+                    align-items: center;
+                    flex-shrink: 0;
+                    margin-bottom: 0.8rem;
+                    height: 2rem;
+
+                    .author-GvU {
+                      box-sizing: border-box;
+                      padding-left: 0.4167rem;
+                      height: 100%;
+                      display: flex;
+                      align-items: center;
+                      flex-shrink: 0;
+                      margin-right: 1.6rem;
+
+                      .user-cjS {
+                        margin-right: 1.2167rem;
+                        width: 1.1667rem;
+                        height: 1.5rem;
+                        object-fit: contain;
+                        vertical-align: top;
+                        flex-shrink: 0;
+                      }
+                      .sarfraz-jasim-9zG {
+                        font-size: 1.4rem;
+                        font-weight: 400;
+                        line-height: 1.4285714286;
+                        letter-spacing: 0.0035rem;
+                        color: #838383;
+                        font-family: Roboto, 'Source Sans Pro';
+                        white-space: nowrap;
+                        flex-shrink: 0;
+                      }
+                    }
+                    .border-V2Y {
+                      background-color: #838383;
+                      flex-shrink: 0;
+                      margin-right: 1.5rem;
+                      width: 0.1rem;
+                      height: 2rem;
+                    }
+                    .date-1ma {
+                      padding-left: 0.25rem;
+                      height: 100%;
+                      display: flex;
+                      align-items: center;
+                      flex-shrink: 0;
+                      box-sizing: border-box;
+
+                      .calender-NME {
+                        margin: 0rem 1.046rem 0.071rem 0rem;
+                        width: 1.5042rem;
+                        height: 1.4292rem;
+                        object-fit: contain;
+                        vertical-align: top;
+                        flex-shrink: 0;
+                      }
+                      .july-17-2023-h8c {
+                        white-space: nowrap;
+                        flex-shrink: 0;
+                        font-size: 1.4rem;
+                        font-weight: 400;
+                        line-height: 1.4285714286;
+                        letter-spacing: 0.0035rem;
+                        color: #838383;
+                        font-family: Roboto, 'Source Sans Pro';
+                      }
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-cWU {
+                    max-width: 67.2rem;
+                    font-size: 3.8rem;
+                    font-weight: 700;
+                    line-height: 1.2631578947;
+                    text-transform: uppercase;
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    flex-shrink: 0;
+                  }
+                }
+                .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-a-master-suite-with-private-terrace-and-anny-hills-property-with-mountain-iJc {
+                  max-width: 69.9rem;
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  flex-shrink: 0;
+                }
+              }
+              .read-more-abi {
+                width: calc(100% - 59.5rem);
+                display: flex;
+                align-items: center;
+                margin-right: 59.5rem;
+                box-sizing: border-box;
+                padding-right: 0.225rem;
+
+                .read-more-7be {
+                  font-weight: 500;
+                  line-height: 1.5;
+                  flex-shrink: 0;
+                  margin-right: 1.025rem;
+                  font-size: 1.6rem;
+                  letter-spacing: 0.0016rem;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  white-space: nowrap;
+                }
+                .right-arrow-v2-EwA {
+                  width: 1.35rem;
+                  height: 1.1475rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                }
+              }
+            }
+          }
+          .border-mw6 {
+            flex-shrink: 0;
+            margin-bottom: 3.1rem;
+            width: 100%;
+            height: 0.1rem;
+            background-color: #cccccc;
+          }
+          .frame-37-vZ6 {
+            width: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .auto-group-5q6x-V6Q {
+              height: 46.4rem;
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+              margin-bottom: 3.4rem;
+              width: 100%;
+
+              .journal-Rkk {
+                margin-right: 3rem;
+                width: 35rem;
+                height: 100%;
+                flex-shrink: 0;
+
+                .image-BE8 {
+                  width: 100%;
+                  height: 26.2rem;
+                  background-image: url('REPLACE_IMAGE:7e5b322ebcbfbf4cace27cd0519f6c1530bd6fd8');
+                  margin-bottom: 1.6rem;
+                  box-sizing: border-box;
+                  padding: 2.4rem;
+                  background-size: 100% 100%;
+                  background-repeat: no-repeat;
+                  background-position: center;
+
+                  .taxonomy-hyA {
+                    width: 6.6rem;
+                    color: #ffffff;
+                    background-color: #575df6;
+                    letter-spacing: 0.0048rem;
+                    white-space: nowrap;
+                    align-items: center;
+                    font-weight: 400;
+                    display: flex;
+                    justify-content: center;
+                    line-height: 1.3333333333;
+                    font-family: Roboto, 'Source Sans Pro';
+                    margin: 0rem 23.6rem 19rem 0rem;
+                    height: 2.4rem;
+                    font-size: 1.2rem;
+                  }
+                }
+                .title-cta-xu6 {
+                  width: 32.2rem;
+
+                  .title-text-v5E {
+                    flex-direction: column;
+                    margin-bottom: 2rem;
+                    width: 100%;
+                    display: flex;
+
+                    .title-meta-Gun {
+                      width: 32rem;
+                      flex-shrink: 0;
+                      margin-bottom: 1.2rem;
+
+                      .date-2PA {
+                        padding-left: 0.25rem;
+                        width: calc(100% - 20.9rem);
+                        display: flex;
+                        align-items: center;
+                        margin: 0rem 20.9rem 0.6rem 0rem;
+                        box-sizing: border-box;
+
+                        .calender-x1v {
+                          vertical-align: top;
+                          flex-shrink: 0;
+                          margin: 0rem 1.046rem 0.071rem 0rem;
+                          width: 1.5042rem;
+                          height: 1.4292rem;
+                          object-fit: contain;
+                        }
+                        .july-17-2023-5MS {
+                          letter-spacing: 0.0035rem;
+                          color: #838383;
+                          font-family: Roboto, 'Source Sans Pro';
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                          font-size: 1.4rem;
+                          font-weight: 400;
+                          line-height: 1.4285714286;
+                        }
+                      }
+                      .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-oHS {
+                        letter-spacing: 0.0027rem;
+                        text-transform: uppercase;
+                        color: #0a0a0a;
+                        font-family: Oswald, 'Source Sans Pro';
+                        max-width: 32rem;
+                        font-size: 1.8rem;
+                        font-weight: 700;
+                        line-height: 1.5555555556;
+                      }
+                    }
+                    .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-Vvx {
+                      font-size: 1.6rem;
+                      font-weight: 400;
+                      line-height: 1.5;
+                      letter-spacing: 0.008rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      flex-shrink: 0;
+                      max-width: 32.2rem;
+                    }
+                  }
+                  .read-more-CqN {
+                    align-items: center;
+                    margin-right: 21.8rem;
+                    box-sizing: border-box;
+                    padding-right: 0.225rem;
+                    width: calc(100% - 21.8rem);
+                    display: flex;
+
+                    .read-more-k6C {
+                      font-weight: 500;
+                      line-height: 1.5;
+                      letter-spacing: 0.0016rem;
+                      white-space: nowrap;
+                      margin-right: 1.025rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      flex-shrink: 0;
+                      font-size: 1.6rem;
+                    }
+                    .right-arrow-v2-GqE {
+                      flex-shrink: 0;
+                      margin-top: 0rem;
+                      width: 1.35rem;
+                      height: 1.1475rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                    }
+                  }
+                }
+              }
+              .journal-QAk {
+                width: 35rem;
+                height: 100%;
+                flex-shrink: 0;
+
+                .image-xCG {
+                  background-repeat: no-repeat;
+                  background-position: center;
+                  margin-bottom: 1.6rem;
+                  box-sizing: border-box;
+                  padding: 2.4rem;
+                  width: 100%;
+                  height: 26.2rem;
+                  background-size: 100% 100%;
+                  background-image: url('REPLACE_IMAGE:401dacba25d181b1c9c46b5e1be89f6a09d892af');
+
+                  .taxonomy-tbi {
+                    letter-spacing: 0.0048rem;
+                    font-family: Roboto, 'Source Sans Pro';
+                    display: flex;
+                    justify-content: center;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.3333333333;
+                    color: #ffffff;
+                    background-color: #ff290c;
+                    margin: 0rem 23.6rem 19rem 0rem;
+                    align-items: center;
+                    white-space: nowrap;
+                    width: 6.6rem;
+                    height: 2.4rem;
+                  }
+                }
+                .title-cta-vHW {
+                  width: 32.2rem;
+
+                  .title-text-g1n {
+                    margin-bottom: 2rem;
+                    width: 100%;
+                    display: flex;
+                    flex-direction: column;
+
+                    .title-meta-dBv {
+                      margin-bottom: 1.2rem;
+                      width: 32rem;
+                      flex-shrink: 0;
+
+                      .date-NvC {
+                        align-items: center;
+                        margin: 0rem 20.9rem 0.6rem 0rem;
+                        box-sizing: border-box;
+                        padding-left: 0.25rem;
+                        width: calc(100% - 20.9rem);
+                        display: flex;
+
+                        .calender-WFi {
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                          margin: 0rem 1.046rem 0.071rem 0rem;
+                          width: 1.5042rem;
+                          height: 1.4292rem;
+                        }
+                        .july-17-2023-2Ux {
+                          font-weight: 400;
+                          line-height: 1.4285714286;
+                          letter-spacing: 0.0035rem;
+                          color: #838383;
+                          font-family: Roboto, 'Source Sans Pro';
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                          font-size: 1.4rem;
+                        }
+                      }
+                      .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-wrp {
+                        font-size: 1.8rem;
+                        font-weight: 700;
+                        line-height: 1.5555555556;
+                        letter-spacing: 0.0027rem;
+                        text-transform: uppercase;
+                        color: #0a0a0a;
+                        font-family: Oswald, 'Source Sans Pro';
+                        max-width: 32rem;
+                      }
+                    }
+                    .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-T4U {
+                      font-weight: 400;
+                      line-height: 1.5;
+                      letter-spacing: 0.008rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      flex-shrink: 0;
+                      max-width: 32.2rem;
+                      font-size: 1.6rem;
+                    }
+                  }
+                  .read-more-Mfe {
+                    margin-right: 21.8rem;
+                    box-sizing: border-box;
+                    padding-right: 0.225rem;
+                    width: calc(100% - 21.8rem);
+                    display: flex;
+                    align-items: center;
+
+                    .read-more-tvU {
+                      white-space: nowrap;
+                      line-height: 1.5;
+                      letter-spacing: 0.0016rem;
+                      font-family: Roboto, 'Source Sans Pro';
+                      color: #838383;
+                      flex-shrink: 0;
+                      margin-right: 1.025rem;
+                      font-size: 1.6rem;
+                      font-weight: 500;
+                    }
+                    .right-arrow-v2-R9i {
+                      margin-top: 0rem;
+                      width: 1.35rem;
+                      height: 1.1475rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                    }
+                  }
+                }
+              }
+            }
+            .auto-group-jmwy-YVE {
+              width: 100%;
+              height: 46.4rem;
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+
+              .journal-toz {
+                width: 35rem;
+                height: 100%;
+                flex-shrink: 0;
+                margin-right: 3rem;
+
+                .image-3Rz {
+                  box-sizing: border-box;
+                  width: 100%;
+                  height: 26.2rem;
+                  background-position: center;
+                  background-image: url('REPLACE_IMAGE:08fd907487063e1cf0e8342fad062796e804a158');
+                  margin-bottom: 1.6rem;
+                  padding: 2.4rem;
+                  background-size: 100% 100%;
+                  background-repeat: no-repeat;
+
+                  .taxonomy-awi {
+                    letter-spacing: 0.0048rem;
+                    color: #ffffff;
+                    justify-content: center;
+                    background-color: #ce0bff;
+                    height: 2.4rem;
+                    font-family: Roboto, 'Source Sans Pro';
+                    width: 6.6rem;
+                    font-size: 1.2rem;
+                    white-space: nowrap;
+                    align-items: center;
+                    margin: 0rem 23.6rem 19rem 0rem;
+                    font-weight: 400;
+                    line-height: 1.3333333333;
+                    display: flex;
+                  }
+                }
+                .title-cta-q6x {
+                  width: 32.2rem;
+
+                  .title-text-PPN {
+                    margin-bottom: 2rem;
+                    width: 100%;
+                    display: flex;
+                    flex-direction: column;
+
+                    .title-meta-wfn {
+                      margin-bottom: 1.2rem;
+                      width: 32rem;
+                      flex-shrink: 0;
+
+                      .date-6Hn {
+                        padding-left: 0.25rem;
+                        width: calc(100% - 20.9rem);
+                        display: flex;
+                        align-items: center;
+                        margin: 0rem 20.9rem 0.6rem 0rem;
+                        box-sizing: border-box;
+
+                        .calender-2SL {
+                          margin: 0rem 1.046rem 0.071rem 0rem;
+                          width: 1.5042rem;
+                          height: 1.4292rem;
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                        }
+                        .july-17-2023-xat {
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                          font-size: 1.4rem;
+                          font-weight: 400;
+                          line-height: 1.4285714286;
+                          letter-spacing: 0.0035rem;
+                          color: #838383;
+                          font-family: Roboto, 'Source Sans Pro';
+                        }
+                      }
+                      .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-Up8 {
+                        font-weight: 700;
+                        line-height: 1.5555555556;
+                        letter-spacing: 0.0027rem;
+                        text-transform: uppercase;
+                        color: #0a0a0a;
+                        font-family: Oswald, 'Source Sans Pro';
+                        max-width: 32rem;
+                        font-size: 1.8rem;
+                      }
+                    }
+                    .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-aMN {
+                      max-width: 32.2rem;
+                      font-size: 1.6rem;
+                      font-weight: 400;
+                      line-height: 1.5;
+                      letter-spacing: 0.008rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      flex-shrink: 0;
+                    }
+                  }
+                  .read-more-sbN {
+                    padding-right: 0.225rem;
+                    width: calc(100% - 21.8rem);
+                    display: flex;
+                    align-items: center;
+                    margin-right: 21.8rem;
+                    box-sizing: border-box;
+
+                    .read-more-pFi {
+                      line-height: 1.5;
+                      flex-shrink: 0;
+                      margin-right: 1.025rem;
+                      font-size: 1.6rem;
+                      font-weight: 500;
+                      white-space: nowrap;
+                      letter-spacing: 0.0016rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                    }
+                    .right-arrow-v2-Lzk {
+                      height: 1.1475rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin-top: 0rem;
+                      width: 1.35rem;
+                    }
+                  }
+                }
+              }
+              .journal-tFa {
+                width: 35rem;
+                height: 100%;
+                flex-shrink: 0;
+
+                .image-Snt {
+                  height: 26.2rem;
+                  background-size: 100% 100%;
+                  background-repeat: no-repeat;
+                  background-image: url('REPLACE_IMAGE:3f629be03f4c6bfef4ce4353312bf49805d3f574');
+                  margin-bottom: 1.6rem;
+                  box-sizing: border-box;
+                  padding: 2.4rem;
+                  width: 100%;
+                  background-position: center;
+
+                  .taxonomy-nrk {
+                    color: #ffffff;
+                    font-family: Roboto, 'Source Sans Pro';
+                    background-color: #0c99ff;
+                    width: 6.6rem;
+                    height: 2.4rem;
+                    line-height: 1.3333333333;
+                    letter-spacing: 0.0048rem;
+                    display: flex;
+                    justify-content: center;
+                    font-weight: 400;
+                    align-items: center;
+                    margin: 0rem 23.6rem 19rem 0rem;
+                    font-size: 1.2rem;
+                    white-space: nowrap;
+                  }
+                }
+                .title-cta-2m6 {
+                  width: 32.2rem;
+
+                  .title-text-nkG {
+                    flex-direction: column;
+                    margin-bottom: 2rem;
+                    width: 100%;
+                    display: flex;
+
+                    .title-meta-kBJ {
+                      flex-shrink: 0;
+                      margin-bottom: 1.2rem;
+                      width: 32rem;
+
+                      .date-6kx {
+                        width: calc(100% - 20.9rem);
+                        display: flex;
+                        align-items: center;
+                        margin: 0rem 20.9rem 0.6rem 0rem;
+                        box-sizing: border-box;
+                        padding-left: 0.25rem;
+
+                        .calender-Dqa {
+                          height: 1.4292rem;
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                          margin: 0rem 1.046rem 0.071rem 0rem;
+                          width: 1.5042rem;
+                        }
+                        .july-17-2023-9DS {
+                          flex-shrink: 0;
+                          font-size: 1.4rem;
+                          font-weight: 400;
+                          line-height: 1.4285714286;
+                          letter-spacing: 0.0035rem;
+                          color: #838383;
+                          font-family: Roboto, 'Source Sans Pro';
+                          white-space: nowrap;
+                        }
+                      }
+                      .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-UWc {
+                        line-height: 1.5555555556;
+                        letter-spacing: 0.0027rem;
+                        text-transform: uppercase;
+                        color: #0a0a0a;
+                        font-family: Oswald, 'Source Sans Pro';
+                        max-width: 32rem;
+                        font-size: 1.8rem;
+                        font-weight: 700;
+                      }
+                    }
+                    .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-apY {
+                      line-height: 1.5;
+                      letter-spacing: 0.008rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      flex-shrink: 0;
+                      max-width: 32.2rem;
+                      font-size: 1.6rem;
+                      font-weight: 400;
+                    }
+                  }
+                  .read-more-6Xz {
+                    padding-right: 0.225rem;
+                    width: calc(100% - 21.8rem);
+                    display: flex;
+                    align-items: center;
+                    margin-right: 21.8rem;
+                    box-sizing: border-box;
+
+                    .read-more-EeC {
+                      margin-right: 1.025rem;
+                      font-weight: 500;
+                      line-height: 1.5;
+                      letter-spacing: 0.0016rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      font-size: 1.6rem;
+                      flex-shrink: 0;
+                    }
+                    .right-arrow-v2-ZRa {
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin-top: 0rem;
+                      width: 1.35rem;
+                      height: 1.1475rem;
+                      object-fit: contain;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      .frame-36-5ep {
+        display: flex;
+        background-color: #f4f4f4;
+        width: 33rem;
+        align-items: center;
+        padding: 1.6rem 1.6rem 1.6rem 1.6rem;
+        row-gap: 4rem;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-top: 1.1rem;
+        box-sizing: border-box;
+
+        .frame-34-nZE {
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-left: 0rem;
+          width: calc(100% - 0rem);
+          display: flex;
+
+          .popular-post-Lqe {
+            line-height: 1.1666666667;
+            font-family: Oswald, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin-bottom: 2.4rem;
+            font-size: 2.4rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: #0a0a0a;
+            white-space: nowrap;
+          }
+          .frame-33-US4 {
+            width: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .frame-27-ERE {
+              flex-shrink: 0;
+              margin-bottom: 2.4rem;
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+
+              .frame-26-bFn {
+                padding: 1.6rem;
+                width: 100%;
+                flex-shrink: 0;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-image: url('REPLACE_IMAGE:4cfb65f206fc64cdfda014d7b1318edaee825d19');
+                margin-bottom: 1.6rem;
+                box-sizing: border-box;
+                height: 22.4rem;
+                background-size: 100% 100%;
+
+                .taxonomy-KxU {
+                  font-weight: 400;
+                  letter-spacing: 0.0048rem;
+                  color: #ffffff;
+                  margin: 0rem 20rem 16.8rem 0rem;
+                  font-size: 1.2rem;
+                  font-family: Roboto, 'Source Sans Pro';
+                  background-color: #575df6;
+                  width: 6.6rem;
+                  line-height: 1.3333333333;
+                  height: 2.4rem;
+                  align-items: center;
+                  justify-content: center;
+                  white-space: nowrap;
+                  display: flex;
+                }
+              }
+              .title-text-PSY {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+
+                .title-meta-wix {
+                  margin-bottom: 0.8rem;
+                  width: 22.3rem;
+                  flex-shrink: 0;
+
+                  .date-teC {
+                    margin: 0rem 11.2rem 0.6rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 11.2rem);
+                    display: flex;
+                    align-items: center;
+
+                    .calender-DgU {
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                    }
+                    .july-17-2023-9KE {
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-UcQ {
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    max-width: 22.3rem;
+                    font-size: 1.4rem;
+                    font-weight: 700;
+                    line-height: 1.5714285714;
+                    text-transform: uppercase;
+                  }
+                }
+                .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-BWp {
+                  max-width: 28.2rem;
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  line-height: 1.4285714286;
+                  letter-spacing: 0.007rem;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  flex-shrink: 0;
+
+                  .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-BWp-sub-0 {
+                    font-weight: 400;
+                    line-height: 1.4285714286;
+                    letter-spacing: 0.007rem;
+                    color: #838383;
+                    font-family: Roboto, 'Source Sans Pro';
+                    font-size: 1.4rem;
+                  }
+                  .hidden-hills-property-with-mountain-and-city-view-boast-nine-bed-rooms-including-BWp-sub-1 {
+                    font-size: 1.4rem;
+                    font-weight: 400;
+                    line-height: 1.4285714286;
+                    letter-spacing: 0.007rem;
+                    color: #838383;
+                    font-family: Roboto, 'Source Sans Pro';
+                  }
+                }
+              }
+            }
+            .border-cEk {
+              height: 0.1rem;
+              background-color: #666666;
+              flex-shrink: 0;
+              width: 100%;
+            }
+            .auto-group-q18u-xpQ {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding-top: 2.3rem;
+              width: 100%;
+
+              .frame-28-VpL {
+                margin: 0rem 2.5rem 2.4rem 0rem;
+                width: calc(100% - 2.5rem);
+                height: 9.4rem;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+
+                .background-2JU {
+                  object-fit: cover;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin-right: 1.4rem;
+                  width: 9.4rem;
+                  height: 9.4rem;
+                }
+                .title-meta-ZZJ {
+                  margin: 0.1rem 0;
+                  width: 16.5rem;
+                  height: calc(100% - 0.2rem);
+                  flex-shrink: 0;
+
+                  .date-Vhr {
+                    margin: 0rem 5.4rem 0.6rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 5.4rem);
+                    display: flex;
+                    align-items: center;
+
+                    .calender-2St {
+                      flex-shrink: 0;
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                    }
+                    .july-17-2023-ktg {
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-VLU {
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    max-width: 16.5rem;
+                    font-size: 1.4rem;
+                    font-weight: 700;
+                    line-height: 1.5714285714;
+                    text-transform: uppercase;
+                  }
+                }
+              }
+              .frame-29-QCY {
+                height: 9.4rem;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+                margin: 0rem 2.5rem 2.4rem 0rem;
+                width: calc(100% - 2.5rem);
+
+                .background-jEp {
+                  flex-shrink: 0;
+                  margin-right: 1.4rem;
+                  width: 9.4rem;
+                  height: 9.4rem;
+                  object-fit: cover;
+                  vertical-align: top;
+                }
+                .title-meta-sM2 {
+                  margin: 0.1rem 0;
+                  width: 16.5rem;
+                  height: calc(100% - 0.2rem);
+                  flex-shrink: 0;
+
+                  .date-p1N {
+                    align-items: center;
+                    margin: 0rem 5.4rem 0.6rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 5.4rem);
+                    display: flex;
+
+                    .calender-8nk {
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                    }
+                    .july-17-2023-FcU {
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-PTn {
+                    line-height: 1.5714285714;
+                    text-transform: uppercase;
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    max-width: 16.5rem;
+                    font-size: 1.4rem;
+                    font-weight: 700;
+                  }
+                }
+              }
+              .frame-30-6sz {
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+                margin: 0rem 2.5rem 2.4rem 0rem;
+                width: calc(100% - 2.5rem);
+                height: 9.4rem;
+
+                .background-qKn {
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin-right: 1.4rem;
+                  width: 9.4rem;
+                  height: 9.4rem;
+                  object-fit: cover;
+                }
+                .title-meta-NqW {
+                  margin: 0.1rem 0;
+                  width: 16.5rem;
+                  height: calc(100% - 0.2rem);
+                  flex-shrink: 0;
+
+                  .date-vME {
+                    margin: 0rem 5.4rem 0.6rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 5.4rem);
+                    display: flex;
+                    align-items: center;
+
+                    .calender-rEt {
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                      height: 1.4292rem;
+                      object-fit: contain;
+                    }
+                    .july-17-2023-Nyv {
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-uyr {
+                    line-height: 1.5714285714;
+                    text-transform: uppercase;
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    max-width: 16.5rem;
+                    font-size: 1.4rem;
+                    font-weight: 700;
+                  }
+                }
+              }
+              .frame-31-22t {
+                align-items: center;
+                flex-shrink: 0;
+                margin: 0rem 2.5rem 2.6rem 0rem;
+                width: calc(100% - 2.5rem);
+                height: 9.4rem;
+                display: flex;
+
+                .background-xBS {
+                  margin-right: 1.4rem;
+                  width: 9.4rem;
+                  height: 9.4rem;
+                  object-fit: cover;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                }
+                .title-meta-h92 {
+                  margin: 0.1rem 0;
+                  width: 16.5rem;
+                  height: calc(100% - 0.2rem);
+                  flex-shrink: 0;
+
+                  .date-2h6 {
+                    margin: 0rem 5.4rem 0.6rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 5.4rem);
+                    display: flex;
+                    align-items: center;
+
+                    .calender-A2c {
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                    }
+                    .july-17-2023-tUQ {
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-2Ki {
+                    font-family: Oswald, 'Source Sans Pro';
+                    max-width: 16.5rem;
+                    font-size: 1.4rem;
+                    font-weight: 700;
+                    line-height: 1.5714285714;
+                    text-transform: uppercase;
+                    color: #0a0a0a;
+                  }
+                }
+              }
+              .frame-32-99S {
+                flex-shrink: 0;
+                margin-right: 2.5rem;
+                width: calc(100% - 2.5rem);
+                height: 9.4rem;
+                display: flex;
+                align-items: center;
+
+                .background-g9N {
+                  margin-right: 1.4rem;
+                  width: 9.4rem;
+                  height: 9.4rem;
+                  object-fit: cover;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                }
+                .title-meta-Df6 {
+                  margin: 0.1rem 0;
+                  width: 16.5rem;
+                  height: calc(100% - 0.2rem);
+                  flex-shrink: 0;
+
+                  .date-mAp {
+                    display: flex;
+                    align-items: center;
+                    margin: 0rem 5.4rem 0.6rem 0rem;
+                    box-sizing: border-box;
+                    padding-left: 0.25rem;
+                    width: calc(100% - 5.4rem);
+
+                    .calender-JAk {
+                      height: 1.4292rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin: 0rem 1.046rem 0.071rem 0rem;
+                      width: 1.5042rem;
+                    }
+                    .july-17-2023-E4Q {
+                      font-family: Roboto, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      letter-spacing: 0.0035rem;
+                      color: #838383;
+                    }
+                  }
+                  .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-Z6g {
+                    font-size: 1.4rem;
+                    font-weight: 700;
+                    line-height: 1.5714285714;
+                    text-transform: uppercase;
+                    color: #0a0a0a;
+                    font-family: Oswald, 'Source Sans Pro';
+                    max-width: 16.5rem;
+                  }
+                }
+              }
+            }
+          }
+        }
+        .ad2-TC4 {
+          position: relative;
+          flex-shrink: 0;
+          width: 100%;
+          height: 33.4rem;
+
+          .ad-image-oWp {
+            position: absolute;
+            left: 0;
+            top: 0;
+            object-fit: contain;
+            vertical-align: top;
+            width: 29.8rem;
+            height: 33.4rem;
+          }
+          .ad-title-YjJ {
+            width: 21.9rem;
+            height: 17.4rem;
+            position: absolute;
+            left: 1.6rem;
+            top: 1rem;
+
+            .ad-title-5UL {
+              flex-direction: column;
+              margin-bottom: 2.4rem;
+              width: 100%;
+              display: flex;
+
+              .post-blocks-E6L {
+                font-size: 3.2rem;
+                line-height: 1.4375;
+                margin-bottom: 0.4rem;
+                font-weight: 600;
+                letter-spacing: 0.008rem;
+                color: #ffffff;
+                font-family: Oswald, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+              }
+              .best-gutenberg-blocks-ever-for-news-magagine-block-9UC {
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.008rem;
+                color: #d9d9d9;
+                font-family: Roboto, 'Source Sans Pro';
+                flex-shrink: 0;
+                max-width: 21.9rem;
+                font-size: 1.6rem;
+              }
+            }
+            .read-more-GHv {
+              width: 16.8rem;
+              height: 5.2rem;
+              letter-spacing: 0.0016rem;
+              color: #ffffff;
+              display: flex;
+              font-size: 1.6rem;
+              align-items: center;
+              font-weight: 500;
+              font-family: Roboto, 'Source Sans Pro';
+              border: solid 0.1rem #ffffff;
+              line-height: 1.5;
+              white-space: nowrap;
+              justify-content: center;
+              box-sizing: border-box;
+            }
+          }
+        }
+        .frame-35-jhJ {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-left: 0rem;
+          width: calc(100% - 0rem);
+
+          .galary-624 {
+            font-weight: 700;
+            color: #0a0a0a;
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-bottom: 2.4rem;
+            font-size: 2.4rem;
+            font-family: Oswald, 'Source Sans Pro';
+            line-height: 1.1666666667;
+            text-transform: uppercase;
+          }
+          .frame-2-R4L {
+            width: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .auto-group-ette-NkG {
+              flex-shrink: 0;
+              width: 100%;
+              display: flex;
+              align-items: center;
+
+              .image-LBJ {
+                width: 9.9rem;
+                height: 9.9rem;
+                object-fit: cover;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .image-UYQ {
+                width: 10rem;
+                height: 9.9rem;
+                object-fit: cover;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .image-cuW {
+                width: 9.9rem;
+                height: 9.9rem;
+                object-fit: cover;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+            }
+            .auto-group-qbpe-yEG {
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+              width: 100%;
+
+              .image-Kov {
+                flex-shrink: 0;
+                width: 9.9rem;
+                height: 10rem;
+                object-fit: cover;
+                vertical-align: top;
+              }
+              .image-5YC {
+                width: 10rem;
+                height: 10rem;
+                object-fit: cover;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .image-EAC {
+                width: 9.9rem;
+                height: 10rem;
+                object-fit: cover;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+            }
+            .auto-group-u6wc-nBi {
+              width: 100%;
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+
+              .image-wKW {
+                width: 9.9rem;
+                height: 9.9rem;
+                object-fit: cover;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .image-hJg {
+                width: 10rem;
+                height: 9.9rem;
+                object-fit: cover;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .image-3tL {
+                object-fit: cover;
+                vertical-align: top;
+                flex-shrink: 0;
+                width: 9.9rem;
+                height: 9.9rem;
+              }
+            }
+          }
+        }
+      }
+    }
+    .pagination-Sfa {
+      height: 3.6rem;
+      display: flex;
+      column-gap: 0.8rem;
+      align-items: center;
+      flex-shrink: 0;
+
+      .previouse-ArU {
+        letter-spacing: 0.008rem;
+        flex-shrink: 0;
+        font-family: Roboto, 'Source Sans Pro';
+        box-sizing: border-box;
+        justify-content: center;
+        width: 9.1rem;
+        height: 100%;
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.5;
+        white-space: nowrap;
+        display: flex;
+        color: #838383;
+        align-items: center;
+        border: solid 0.1rem #838383;
+      }
+      .item-1-Tqa {
+        line-height: 1.5;
+        border: solid 0.1rem #838383;
+        flex-shrink: 0;
+        height: 100%;
+        color: #838383;
+        white-space: nowrap;
+        box-sizing: border-box;
+        font-size: 1.6rem;
+        font-weight: 400;
+        font-family: Roboto, 'Source Sans Pro';
+        align-items: center;
+        width: 3.7rem;
+        letter-spacing: 0.008rem;
+        display: flex;
+        justify-content: center;
+      }
+      .item-2-kpg {
+        background-color: #047ffa;
+        font-family: Roboto, 'Source Sans Pro';
+        white-space: nowrap;
+        letter-spacing: 0.008rem;
+        color: #ffffff;
+        width: 3.7rem;
+        font-weight: 400;
+        justify-content: center;
+        flex-shrink: 0;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        height: 100%;
+        font-size: 1.6rem;
+      }
+      .item-3-GHE {
+        width: 3.7rem;
+        line-height: 1.5;
+        align-items: center;
+        color: #838383;
+        border: solid 0.1rem #838383;
+        flex-shrink: 0;
+        font-family: Roboto, 'Source Sans Pro';
+        display: flex;
+        white-space: nowrap;
+        justify-content: center;
+        box-sizing: border-box;
+        height: 100%;
+        font-size: 1.6rem;
+        font-weight: 400;
+        letter-spacing: 0.008rem;
+      }
+      .item-4-ySY {
+        font-weight: 400;
+        display: flex;
+        align-items: center;
+        width: 3.7rem;
+        height: 100%;
+        white-space: nowrap;
+        border: solid 0.1rem #838383;
+        flex-shrink: 0;
+        line-height: 1.5;
+        font-family: Roboto, 'Source Sans Pro';
+        color: #838383;
+        box-sizing: border-box;
+        font-size: 1.6rem;
+        letter-spacing: 0.008rem;
+        justify-content: center;
+      }
+      .item-5-U8Q {
+        display: flex;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 400;
+        color: #838383;
+        justify-content: center;
+        border: solid 0.1rem #838383;
+        width: 3.7rem;
+        height: 100%;
+        font-family: Roboto, 'Source Sans Pro';
+        align-items: center;
+        box-sizing: border-box;
+        line-height: 1.5;
+        letter-spacing: 0.008rem;
+        white-space: nowrap;
+      }
+      .next-B2p {
+        font-weight: 400;
+        justify-content: center;
+        box-sizing: border-box;
+        height: 100%;
+        font-size: 1.6rem;
+        line-height: 1.5;
+        display: flex;
+        color: #838383;
+        font-family: Roboto, 'Source Sans Pro';
+        width: 6.2rem;
+        letter-spacing: 0.008rem;
+        white-space: nowrap;
+        align-items: center;
+        border: solid 0.1rem #838383;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .footer-G4G {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #0a0a0a;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 7.8rem 16.5rem 4.8rem 16.5rem;
+    width: 100%;
+
+    .auto-group-mq2g-aKr {
+      margin-bottom: 4.8rem;
+      width: 100%;
+      height: 31.2rem;
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+
+      .auto-group-qkcl-7Kn {
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding-right: 4rem;
+
+        .logo-text-TeY {
+          flex-shrink: 0;
+          margin: 0.2rem 8.9rem 0rem 0rem;
+          width: 31.4rem;
+
+          .logo-az4 {
+            margin-bottom: 2.4rem;
+            width: 13.2923rem;
+            height: 4.8rem;
+            position: relative;
+            object-fit: contain;
+            vertical-align: top;
+          }
+          .footer-text-Kgk {
+            display: flex;
+            flex-direction: column;
+            margin-left: 0rem;
+            width: calc(100% - 0rem);
+
+            .with-grand-cities-plenty-of-opportunities-for-adventure-and-some-of-the-best-hiking-5A8 {
+              font-size: 1.6rem;
+              font-weight: 400;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin-bottom: 1.6rem;
+              max-width: 31.4rem;
+              line-height: 1.5;
+              letter-spacing: 0.008rem;
+            }
+            .lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-bGt {
+              letter-spacing: 0.008rem;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              flex-shrink: 0;
+              max-width: 29.7rem;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+            }
+          }
+        }
+        .qucik-link-4RN {
+          width: 16rem;
+          flex-shrink: 0;
+
+          .quick-link-DJG {
+            border-bottom: solid 0.2rem #047ffa;
+            margin-bottom: 2.8rem;
+            box-sizing: border-box;
+            padding-bottom: 0.2rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            .quick-link-9hi {
+              line-height: 1.6;
+              text-transform: uppercase;
+              color: #ffffff;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 0.7rem;
+              font-weight: 500;
+              font-family: Oswald, 'Source Sans Pro';
+              font-size: 2rem;
+            }
+            .border-gSk {
+              width: 100%;
+              height: 0.1rem;
+              background-color: #666666;
+              flex-shrink: 0;
+            }
+          }
+          .menu-p3A {
+            flex-direction: column;
+            width: 7.8rem;
+            align-items: center;
+            display: flex;
+
+            .auto-group-v6mw-xfA {
+              flex-direction: column;
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding-bottom: 1.6rem;
+              width: 100%;
+              display: flex;
+
+              .home-i8Y {
+                margin-bottom: 1.6rem;
+                text-transform: uppercase;
+                color: #ffffff;
+                font-family: Oswald, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.6rem;
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.008rem;
+              }
+              .categories-S4Y {
+                font-weight: 400;
+                color: #ffffff;
+                font-family: Oswald, 'Source Sans Pro';
+                text-transform: uppercase;
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.6rem;
+                line-height: 1.5;
+                letter-spacing: 0.008rem;
+              }
+            }
+            .destination-9zY {
+              color: #ffffff;
+              font-family: Oswald, 'Source Sans Pro';
+              flex-shrink: 0;
+              font-size: 1.6rem;
+              line-height: 1.5;
+              text-transform: uppercase;
+              white-space: nowrap;
+              font-weight: 400;
+              letter-spacing: 0.008rem;
+            }
+            .auto-group-4dwv-5tC {
+              padding-top: 1.6rem;
+              width: 100%;
+              row-gap: 1.6rem;
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              box-sizing: border-box;
+
+              .blog-pKz {
+                letter-spacing: 0.008rem;
+                text-transform: uppercase;
+                color: #ffffff;
+                white-space: nowrap;
+                font-size: 1.6rem;
+                font-weight: 400;
+                line-height: 1.5;
+                font-family: Oswald, 'Source Sans Pro';
+                flex-shrink: 0;
+              }
+              .about-9dA {
+                color: #ffffff;
+                flex-shrink: 0;
+                font-size: 1.6rem;
+                font-weight: 400;
+                letter-spacing: 0.008rem;
+                white-space: nowrap;
+                line-height: 1.5;
+                text-transform: uppercase;
+                font-family: Oswald, 'Source Sans Pro';
+              }
+              .contact-us-tak {
+                font-size: 1.6rem;
+                font-weight: 400;
+                text-transform: uppercase;
+                color: #ffffff;
+                flex-shrink: 0;
+                line-height: 1.5;
+                letter-spacing: 0.008rem;
+                font-family: Oswald, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+            }
+          }
+        }
+      }
+      .popular-post-Qoz {
+        flex-shrink: 0;
+        margin-right: 4rem;
+        width: 27.6rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .popular-post-MjE {
+          display: flex;
+          flex-direction: column;
+          border-bottom: solid 0.2rem #047ffa;
+          flex-shrink: 0;
+          margin-bottom: 3.4rem;
+          box-sizing: border-box;
+          padding-bottom: 0.2rem;
+          width: 100%;
+
+          .popular-post-hYC {
+            line-height: 1.6;
+            color: #ffffff;
+            font-family: Oswald, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin-bottom: 0.7rem;
+            font-size: 2rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            white-space: nowrap;
+          }
+          .border-2aU {
+            width: 100%;
+            height: 0.1rem;
+            background-color: #666666;
+            flex-shrink: 0;
+          }
+        }
+        .popular-post-mnx {
+          flex-direction: column;
+          flex-shrink: 0;
+          width: 100%;
+          align-items: center;
+          display: flex;
+
+          .single-post-8Nc {
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            margin-bottom: 2.4rem;
+            width: 100%;
+            height: 9.4rem;
+
+            .background-Gji {
+              flex-shrink: 0;
+              margin-right: 1.4rem;
+              width: 9.4rem;
+              height: 9.4rem;
+              object-fit: cover;
+              vertical-align: top;
+            }
+            .title-meta-cHn {
+              flex-shrink: 0;
+              margin: 0.1rem 0;
+              width: 16.8rem;
+              height: calc(100% - 0.2rem);
+
+              .author-9Hi {
+                padding-left: 0.4167rem;
+                width: calc(100% - 5.3rem);
+                display: flex;
+                align-items: center;
+                margin: 0rem 5.3rem 0.6rem 0rem;
+                box-sizing: border-box;
+
+                .user-4vU {
+                  margin-right: 1.2167rem;
+                  width: 1.1667rem;
+                  height: 1.5rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                }
+                .sarfraz-jasim-bvQ {
+                  flex-shrink: 0;
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  line-height: 1.4285714286;
+                  letter-spacing: 0.0035rem;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  white-space: nowrap;
+                }
+              }
+              .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-LNC {
+                max-width: 16.8rem;
+                font-size: 1.4rem;
+                font-weight: 700;
+                line-height: 1.5714285714;
+                text-transform: uppercase;
+                color: #ffffff;
+                font-family: Oswald, 'Source Sans Pro';
+              }
+            }
+          }
+          .line-5-EyN {
+            width: 100%;
+            height: 0.1rem;
+            background-color: #666666;
+            flex-shrink: 0;
+            margin-bottom: 2.3rem;
+          }
+          .single-post-C9W {
+            width: 100%;
+            height: 9.4rem;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .background-kRv {
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-right: 1.4rem;
+              width: 9.4rem;
+              height: 9.4rem;
+              object-fit: cover;
+            }
+            .title-meta-hMA {
+              margin: 0.1rem 0;
+              width: 16.8rem;
+              height: calc(100% - 0.2rem);
+              flex-shrink: 0;
+
+              .author-qTN {
+                width: calc(100% - 5.3rem);
+                display: flex;
+                align-items: center;
+                margin: 0rem 5.3rem 0.6rem 0rem;
+                box-sizing: border-box;
+                padding-left: 0.4167rem;
+
+                .user-m68 {
+                  margin-right: 1.2167rem;
+                  width: 1.1667rem;
+                  height: 1.5rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                }
+                .sarfraz-jasim-VXv {
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  line-height: 1.4285714286;
+                  letter-spacing: 0.0035rem;
+                  color: #838383;
+                  font-family: Roboto, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                }
+              }
+              .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-pq6 {
+                text-transform: uppercase;
+                color: #ffffff;
+                font-family: Oswald, 'Source Sans Pro';
+                max-width: 16.8rem;
+                font-size: 1.4rem;
+                font-weight: 700;
+                line-height: 1.5714285714;
+              }
+            }
+          }
+        }
+      }
+      .most-read-vt8 {
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 19.1rem;
+        align-items: center;
+        display: flex;
+
+        .most-read-5m2 {
+          margin-bottom: 3.5rem;
+          box-sizing: border-box;
+          padding-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          border-bottom: solid 0.2rem #047ffa;
+          flex-shrink: 0;
+
+          .most-read-S5n {
+            font-size: 2rem;
+            line-height: 1.6;
+            text-transform: uppercase;
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-bottom: 0.7rem;
+            font-weight: 500;
+            color: #ffffff;
+            font-family: Oswald, 'Source Sans Pro';
+          }
+          .border-AXa {
+            width: 100%;
+            height: 0.1rem;
+            background-color: #666666;
+            flex-shrink: 0;
+          }
+        }
+        .most-read-i3J {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          width: 100%;
+
+          .title-meta-4N4 {
+            margin-bottom: 2.5rem;
+            width: 16.5rem;
+            flex-shrink: 0;
+
+            .author-Qgp {
+              width: calc(100% - 5rem);
+              display: flex;
+              align-items: center;
+              margin: 0rem 5rem 0.6rem 0rem;
+              box-sizing: border-box;
+              padding-left: 0.4167rem;
+
+              .user-8si {
+                height: 1.5rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+                margin-right: 1.2167rem;
+                width: 1.1667rem;
+              }
+              .sarfraz-jasim-HVi {
+                flex-shrink: 0;
+                font-size: 1.4rem;
+                font-weight: 400;
+                line-height: 1.4285714286;
+                letter-spacing: 0.0035rem;
+                color: #838383;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+            }
+            .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-pVe {
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.5714285714;
+              text-transform: uppercase;
+              color: #ffffff;
+              font-family: Oswald, 'Source Sans Pro';
+              max-width: 16.5rem;
+            }
+          }
+          .border-4un {
+            height: 0.1rem;
+            background-color: #666666;
+            flex-shrink: 0;
+            margin-bottom: 2.4rem;
+            width: 100%;
+          }
+          .title-meta-DXn {
+            flex-shrink: 0;
+            width: 16.5rem;
+
+            .author-mJQ {
+              margin: 0rem 5rem 0.6rem 0rem;
+              box-sizing: border-box;
+              padding-left: 0.4167rem;
+              width: calc(100% - 5rem);
+              display: flex;
+              align-items: center;
+
+              .user-ttp {
+                margin-right: 1.2167rem;
+                width: 1.1667rem;
+                height: 1.5rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .sarfraz-jasim-qJG {
+                flex-shrink: 0;
+                font-size: 1.4rem;
+                font-weight: 400;
+                line-height: 1.4285714286;
+                letter-spacing: 0.0035rem;
+                color: #838383;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+            }
+            .everything-you-need-to-know-to-see-the-northern-lights-in-nosey-sky-MGc {
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.5714285714;
+              text-transform: uppercase;
+              color: #ffffff;
+              font-family: Oswald, 'Source Sans Pro';
+              max-width: 16.5rem;
+            }
+          }
+        }
+      }
+    }
+    .border-Sor {
+      background-color: #666666;
+      flex-shrink: 0;
+      margin: 0rem 0rem 4.7rem 0rem;
+      width: calc(100% - 0rem);
+      height: 0.1rem;
+    }
+    .auto-group-un7z-Azk {
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 0rem 5.2rem 0rem;
+      width: calc(100% - 0rem);
+      height: 6.8rem;
+
+      .title-VXE {
+        margin-right: 17.7rem;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .subscribe-for-daily-update-FFW {
+          font-size: 3.2rem;
+          font-weight: 600;
+          color: #ffffff;
+          font-family: Oswald, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.6rem;
+          line-height: 1.1875;
+          letter-spacing: 0.016rem;
+        }
+        .no-scam-only-important-daily-weekly-and-monthly-update-ki4 {
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          letter-spacing: 0.008rem;
+          color: #ffffff;
+        }
+      }
+      .subscribe-input-4ik {
+        align-items: center;
+        border: solid 0.15rem #666666;
+        background-color: rgba(217, 217, 217, 0.1199999973);
+        margin: 0.8rem 0rem 0.4rem 0rem;
+        box-sizing: border-box;
+        padding-left: 1.6rem;
+        height: calc(100% - 1.2rem);
+        display: flex;
+        flex-shrink: 0;
+
+        .enter-your-email-address-n8x {
+          margin-right: 19.5rem;
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          letter-spacing: 0.008rem;
+          color: #838383;
+          font-family: Oswald, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .auto-group-wfxu-5tk {
+          width: 14.2rem;
+          font-family: Oswald, 'Source Sans Pro';
+          white-space: nowrap;
+          justify-content: center;
+          flex-shrink: 0;
+          font-weight: 400;
+          line-height: 1.5;
+          letter-spacing: 0.008rem;
+          color: #ffffff;
+          align-items: center;
+          height: 100%;
+          display: flex;
+          background-color: #047ffa;
+          font-size: 1.6rem;
+        }
+      }
+    }
+    .border-YGY {
+      flex-shrink: 0;
+      margin: 0rem 0rem 4.7rem 0rem;
+      width: calc(100% - 0rem);
+      height: 0.1rem;
+      background-color: #666666;
+    }
+    .footer-bottom-UR6 {
+      margin-left: 0rem;
+      width: calc(100% - 0rem);
+      height: 2.4rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .copyright-2023-designed-by-wpxpo-nwa {
+        flex-shrink: 0;
+        margin-right: 60.9rem;
+        font-size: 1.6rem;
+        font-weight: 400;
+        font-family: Roboto, 'Source Sans Pro';
+        display: flex;
+        align-items: baseline;
+        line-height: 1.5;
+        color: #ffffff;
+        white-space: nowrap;
+
+        .copyright-2023-designed-by-wpxpo-nwa-sub-0 {
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #ffffff;
+          font-family: Oswald, 'Source Sans Pro';
+        }
+        .copyright-2023-designed-by-wpxpo-nwa-sub-1 {
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #047ffa;
+          font-family: Oswald, 'Source Sans Pro';
+        }
+      }
+      .social-Ppt {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .follow-us-Yhn {
+          color: #ffffff;
+          font-family: Oswald, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 2.4rem;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+        }
+        .social-UrL {
+          box-sizing: border-box;
+          padding: 0.2rem 0.3rem 0.2rem 0.2rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .ic-baseline-facebook-bAG {
+            height: 1.995rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 2rem 0.005rem 0rem;
+            width: 2rem;
+          }
+          .mdi-instagram-6si {
+            margin-right: 2.1rem;
+            width: 2rem;
+            height: 2rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .simple-icons-threads-dMr {
+            margin-right: 2.1333rem;
+            width: 1.7207rem;
+            height: 2rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .mdi-twitter-mDA {
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0.1rem 2.054rem 0rem 0rem;
+            width: 2.092rem;
+            height: 1.7rem;
+            object-fit: contain;
+          }
+          .mdi-linkedin-gqv {
+            width: 1.8rem;
+            height: 1.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+  }
+}
